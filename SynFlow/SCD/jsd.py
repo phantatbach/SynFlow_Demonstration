@@ -158,7 +158,7 @@ def plot_items_jsd_by_period(js_results, top_n=10, cols=3):
         colors = [
             "lightgreen" if w.startswith("in_") else 
             "lightcoral" if w.startswith("de_") else 
-            "darkgree" if w.startswith("bo_") else
+            "darkgreen" if w.startswith("bo_") else
             "darkred" if w.startswith("lo_") else
             "purple"
             for w in top_words.index
