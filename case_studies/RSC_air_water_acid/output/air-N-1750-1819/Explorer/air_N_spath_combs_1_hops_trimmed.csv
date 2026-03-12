@@ -1,0 +1,2343 @@
+Subfolder&Frequency&Target&Slot_1&Slot_2&Slot_3&Slot_4&Slot_5&Slot_6&Slot_7&Slot_8&Slot_9
+1750&29&air&> chi_det&> pa_obl&&&&&&&
+1750&27&air&> chi_det&> pa_nmod&&&&&&&
+1750&16&air&> chi_det&> pa_nsubj&&&&&&&
+1750&16&air&> chi_punct&> pa_compound&&&&&&&
+1750&13&air&> pa_nmod&&&&&&&&
+1750&11&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1750&10&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1750&7&air&> chi_amod&> chi_punct&> pa_appos&&&&&&
+1750&7&air&> chi_det&> pa_obj&&&&&&&
+1750&5&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1750&4&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1750&4&air&> chi_amod&> pa_obl&&&&&&&
+1750&4&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1750&3&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1750&3&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1750&3&air&> pa_compound&&&&&&&&
+1750&2&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1750&2&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1750&2&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1750&2&air&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&&
+1750&2&air&> chi_cc&> pa_conj&&&&&&&
+1750&2&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1750&2&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1750&2&air&> chi_nmod&> pa_obl&&&&&&&
+1750&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1750&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1750&1&air&> chi_acl&> chi_amod&> pa_nsubj&&&&&&
+1750&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1750&1&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1750&1&air&> chi_acl&> pa_nmod&&&&&&&
+1750&1&air&> chi_acl:relcl&> chi_advmod&> chi_det&> pa_nmod&&&&&
+1750&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1750&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1750&1&air&> chi_acl:relcl&> chi_det&> pa_nsubj:pass&&&&&&
+1750&1&air&> chi_acl:relcl&> chi_punct&> pa_appos&&&&&&
+1750&1&air&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1750&1&air&> chi_advmod&> chi_aux&> chi_conj&> chi_discourse&> pa_parataxis&&&&
+1750&1&air&> chi_advmod&> chi_cc&> chi_cop&> chi_det&> chi_mark&> chi_nmod&> chi_nsubj&> chi_punct&> pa_conj
+1750&1&air&> chi_advmod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1750&1&air&> chi_advmod&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> chi_obl&> chi_parataxis&> chi_punct&
+1750&1&air&> chi_advmod&> chi_det&> pa_nmod&&&&&&
+1750&1&air&> chi_advmod&> chi_det&> pa_obl&&&&&&
+1750&1&air&> chi_amod&> chi_appos&> chi_det&> pa_nsubj&&&&&
+1750&1&air&> chi_amod&> chi_appos&> chi_punct&> pa_appos&&&&&
+1750&1&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_nmod:unmarked&> chi_punct&> pa_obl&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1750&1&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1750&1&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1750&1&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1750&1&air&> chi_amod&> chi_discourse&> pa_conj&&&&&&
+1750&1&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1750&1&air&> chi_amod&> chi_punct&> pa_list&&&&&&
+1750&1&air&> chi_amod&> pa_list&&&&&&&
+1750&1&air&> chi_cc&> chi_det&> chi_nmod&> pa_conj&&&&&
+1750&1&air&> chi_compound&> chi_det&> chi_punct&> pa_obl&&&&&
+1750&1&air&> chi_conj&> chi_det&> pa_obj&&&&&&
+1750&1&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1750&1&air&> chi_det&> chi_det:predet&> pa_obj&&&&&&
+1750&1&air&> chi_det&> chi_mark&> pa_obl&&&&&&
+1750&1&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1750&1&air&> chi_det&> pa_nmod:poss&&&&&&&
+1750&1&air&> chi_det&> pa_obl:agent&&&&&&&
+1750&1&air&> chi_nmod&> pa_nmod&&&&&&&
+1750&1&air&> chi_nummod&> pa_obl&&&&&&&
+1750&1&air&> pa_nsubj:pass&&&&&&&&
+1750&1&air&> pa_obj&&&&&&&&
+1750&1&air&> pa_obl&&&&&&&&
+1755&35&air&> pa_nmod&&&&&&&&
+1755&34&air&> chi_det&> pa_obl&&&&&&&
+1755&29&air&> chi_det&> pa_nmod&&&&&&&
+1755&17&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1755&15&air&> chi_punct&> pa_compound&&&&&&&
+1755&14&air&> pa_compound&&&&&&&&
+1755&12&air&> chi_det&> pa_nsubj&&&&&&&
+1755&8&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1755&8&air&> chi_amod&> pa_nmod&&&&&&&
+1755&8&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1755&7&air&> pa_obl&&&&&&&&
+1755&6&air&> chi_det&> pa_obj&&&&&&&
+1755&5&air&> chi_amod&> pa_obl&&&&&&&
+1755&4&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1755&4&air&> pa_nsubj:pass&&&&&&&&
+1755&4&air&> pa_obj&&&&&&&&
+1755&3&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1755&3&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1755&3&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1755&3&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1755&3&air&> chi_cc&> pa_conj&&&&&&&
+1755&3&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1755&2&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1755&2&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1755&2&air&> chi_amod&> pa_obj&&&&&&&
+1755&2&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1755&2&air&> chi_det&> chi_nmod:unmarked&> pa_nsubj&&&&&&
+1755&2&air&> chi_det&> pa_obl:agent&&&&&&&
+1755&2&air&> chi_punct&> pa_conj&&&&&&&
+1755&2&air&> chi_punct&> pa_obl&&&&&&&
+1755&2&air&> pa_nsubj&&&&&&&&
+1755&1&air&> chi_acl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1755&1&air&> chi_acl&> chi_compound&> chi_det&> chi_punct&> pa_nsubj&&&&
+1755&1&air&> chi_acl&> chi_det&> chi_punct&> pa_obl&&&&&
+1755&1&air&> chi_acl&> chi_punct&> pa_nsubj&&&&&&
+1755&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1755&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&
+1755&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1755&1&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1755&1&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1755&1&air&> chi_acl:relcl&> pa_obl&&&&&&&
+1755&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_nmod&> pa_compound&&&&
+1755&1&air&> chi_amod&> chi_appos&> pa_nmod&&&&&&
+1755&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_obl&> chi_punct&> pa_advcl
+1755&1&air&> chi_amod&> chi_conj&> chi_det&> chi_nmod&> pa_nsubj&&&&
+1755&1&air&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&&
+1755&1&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1755&1&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1755&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1755&1&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1755&1&air&> chi_amod&> chi_nmod&> pa_obl:agent&&&&&&
+1755&1&air&> chi_amod&> pa_nsubj&&&&&&&
+1755&1&air&> chi_amod&> pa_obl:agent&&&&&&&
+1755&1&air&> chi_appos&> pa_obl&&&&&&&
+1755&1&air&> chi_aux&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> chi_obl&> chi_punct&> pa_advcl&
+1755&1&air&> chi_cc&> chi_compound&> chi_det&> pa_conj&&&&&
+1755&1&air&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1755&1&air&> chi_cc&> chi_nmod&> pa_conj&&&&&&
+1755&1&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1755&1&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1755&1&air&> chi_compound&> chi_det&> pa_obj&&&&&&
+1755&1&air&> chi_compound&> chi_nmod:poss&> pa_nsubj&&&&&&
+1755&1&air&> chi_compound&> pa_nmod&&&&&&&
+1755&1&air&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&&&&&
+1755&1&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1755&1&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1755&1&air&> chi_conj&> pa_nmod&&&&&&&
+1755&1&air&> chi_det&> chi_nmod:unmarked&> pa_nmod&&&&&&
+1755&1&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1755&1&air&> chi_nmod&> pa_nmod&&&&&&&
+1755&1&air&> pa_obl:agent&&&&&&&&
+1755&1&air&> pa_obl:unmarked&&&&&&&&
+1760&27&air&> chi_det&> pa_nmod&&&&&&&
+1760&12&air&> chi_det&> pa_nsubj&&&&&&&
+1760&12&air&> chi_det&> pa_obl&&&&&&&
+1760&6&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1760&4&air&> pa_nmod&&&&&&&&
+1760&3&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1760&3&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1760&3&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1760&3&air&> chi_det&> pa_obj&&&&&&&
+1760&3&air&> chi_punct&> pa_compound&&&&&&&
+1760&3&air&> pa_compound&&&&&&&&
+1760&2&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1760&2&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1760&2&air&> chi_amod&> pa_nsubj&&&&&&&
+1760&2&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1760&2&air&> pa_obl&&&&&&&&
+1760&1&air&> chi_acl&> chi_acl:relcl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1760&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_obl&&&
+1760&1&air&> chi_acl&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1760&1&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1760&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1760&1&air&> chi_amod&> chi_conj&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&
+1760&1&air&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&
+1760&1&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1760&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1760&1&air&> chi_amod&> chi_det&> chi_punct&&&&&&
+1760&1&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1760&1&air&> chi_amod&> chi_mark&> pa_obl&&&&&&
+1760&1&air&> chi_amod&> pa_nmod&&&&&&&
+1760&1&air&> chi_amod&> pa_obl&&&&&&&
+1760&1&air&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1760&1&air&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&&
+1760&1&air&> chi_cc&> chi_det&> pa_conj&&&&&&
+1760&1&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1760&1&air&> chi_compound&> chi_det&> pa_obl&&&&&&
+1760&1&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1760&1&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1760&1&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1760&1&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1760&1&air&> chi_det&> chi_nmod:unmarked&> chi_punct&> pa_nsubj&&&&&
+1760&1&air&> chi_det&> pa_nmod:poss&&&&&&&
+1760&1&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1760&1&air&> pa_nsubj&&&&&&&&
+1760&1&air&> pa_nsubj:pass&&&&&&&&
+1765&119&air&> chi_amod&> pa_nmod&&&&&&&
+1765&77&air&> pa_nmod&&&&&&&&
+1765&51&air&> chi_det&> pa_nmod&&&&&&&
+1765&49&air&> chi_det&> pa_obl&&&&&&&
+1765&47&air&> chi_det&> pa_nsubj&&&&&&&
+1765&42&air&> chi_amod&> pa_obl&&&&&&&
+1765&37&air&> chi_amod&> pa_obj&&&&&&&
+1765&36&air&> pa_obl&&&&&&&&
+1765&26&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1765&25&air&> chi_det&> pa_obj&&&&&&&
+1765&24&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1765&22&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1765&20&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1765&20&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1765&19&air&> pa_compound&&&&&&&&
+1765&17&air&> chi_amod&> pa_nsubj&&&&&&&
+1765&15&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1765&11&air&> pa_nsubj&&&&&&&&
+1765&10&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1765&9&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1765&8&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1765&8&air&> chi_acl&> pa_nmod&&&&&&&
+1765&8&air&> chi_cc&> pa_conj&&&&&&&
+1765&8&air&> pa_obj&&&&&&&&
+1765&6&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1765&6&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1765&6&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1765&6&air&> chi_conj&> pa_nmod&&&&&&&
+1765&5&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1765&5&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1765&5&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1765&5&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1765&5&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1765&5&air&> chi_punct&> pa_compound&&&&&&&
+1765&4&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1765&4&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1765&4&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1765&4&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1765&4&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1765&4&air&> chi_det&> pa_obl:agent&&&&&&&
+1765&4&air&> chi_nmod&> pa_nmod&&&&&&&
+1765&4&air&> pa_nsubj:pass&&&&&&&&
+1765&3&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1765&3&air&> chi_acl&> chi_amod&> chi_det&> pa_obj&&&&&
+1765&3&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1765&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1765&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1765&3&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1765&3&air&> chi_acl:relcl&> chi_det&> pa_nsubj:pass&&&&&&
+1765&3&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1765&3&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1765&2&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1765&2&air&> chi_acl&> chi_amod&> chi_det&> pa_obl&&&&&
+1765&2&air&> chi_acl&> chi_amod&> chi_punct&> pa_obl&&&&&
+1765&2&air&> chi_acl&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1765&2&air&> chi_acl&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1765&2&air&> chi_acl&> chi_det&> pa_nsubj:pass&&&&&&
+1765&2&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1765&2&air&> chi_acl&> chi_punct&> pa_nsubj&&&&&&
+1765&2&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1765&2&air&> chi_acl:relcl&> chi_conj&> chi_det&> pa_obl&&&&&
+1765&2&air&> chi_acl:relcl&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1765&2&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1765&2&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1765&2&air&> chi_amod&> chi_compound&> chi_det&> pa_nsubj&&&&&
+1765&2&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1765&2&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1765&2&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1765&2&air&> chi_amod&> chi_nmod:poss&> pa_obl&&&&&&
+1765&2&air&> chi_amod&> pa_xcomp&&&&&&&
+1765&2&air&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&&
+1765&2&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1765&2&air&> chi_det&> chi_nmod&> pa_obl:agent&&&&&&
+1765&2&air&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&&
+1765&2&air&> chi_nmod&> pa_nsubj&&&&&&&
+1765&2&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1765&2&air&> chi_punct&> pa_nsubj&&&&&&&
+1765&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> chi_punct&> pa_obl&&&&
+1765&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&
+1765&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_nmod&> pa_appos&&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_appos&> chi_det&> chi_punct&> pa_nmod&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_cc&> pa_conj&&&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_compound&> pa_nmod&&&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1765&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_appos&&&&&
+1765&1&air&> chi_acl&> chi_amod&> pa_obj&&&&&&
+1765&1&air&> chi_acl&> chi_cc&> chi_det&> pa_obl&&&&&
+1765&1&air&> chi_acl&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&
+1765&1&air&> chi_acl&> chi_conj&> chi_det&> pa_obl&&&&&
+1765&1&air&> chi_acl&> chi_dep&> pa_appos&&&&&&
+1765&1&air&> chi_acl&> chi_det&> chi_det:predet&> pa_nsubj&&&&&
+1765&1&air&> chi_acl&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1765&1&air&> chi_acl&> chi_det&> pa_obl:agent&&&&&&
+1765&1&air&> chi_acl&> pa_obl&&&&&&&
+1765&1&air&> chi_acl&> pa_obl:agent&&&&&&&
+1765&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&
+1765&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1765&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1765&1&air&> chi_acl:relcl&> chi_amod&> pa_obl&&&&&&
+1765&1&air&> chi_acl:relcl&> chi_appos&> chi_det&&&&&&
+1765&1&air&> chi_acl:relcl&> chi_nmod:poss&> pa_obl&&&&&&
+1765&1&air&> chi_acl:relcl&> pa_nsubj:pass&&&&&&&
+1765&1&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1765&1&air&> chi_advcl&> chi_aux&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&
+1765&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_det&> chi_nmod&> chi_punct&&&
+1765&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> pa_ccomp&&&
+1765&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&> pa_acl:relcl&&&
+1765&1&air&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1765&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1765&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_obj&&&&&
+1765&1&air&> chi_advmod&> chi_amod&> pa_nsubj&&&&&&
+1765&1&air&> chi_advmod&> chi_conj&> chi_det&> chi_nmod&> chi_parataxis&> chi_punct&&&
+1765&1&air&> chi_advmod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&
+1765&1&air&> chi_amod&> chi_appos&> chi_nmod:poss&> pa_obl&&&&&
+1765&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_obl:unmarked&> chi_punct&> pa_advcl
+1765&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&&&
+1765&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> pa_conj&&&&
+1765&1&air&> chi_amod&> chi_cc&> pa_nmod&&&&&&
+1765&1&air&> chi_amod&> chi_compound&> chi_det&> chi_punct&> pa_appos&&&&
+1765&1&air&> chi_amod&> chi_compound&> pa_appos&&&&&&
+1765&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_nmod&> chi_nsubj&> chi_punct&&&
+1765&1&air&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&&
+1765&1&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_obj&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_appos&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1765&1&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1765&1&air&> chi_amod&> chi_discourse&> chi_punct&> pa_appos&&&&&
+1765&1&air&> chi_amod&> chi_nmod&> pa_nsubj&&&&&&
+1765&1&air&> chi_amod&> chi_nmod:poss&> chi_punct&> pa_obl&&&&&
+1765&1&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1765&1&air&> chi_amod&> chi_punct&> pa_nsubj&&&&&&
+1765&1&air&> chi_amod&> pa_obl:agent&&&&&&&
+1765&1&air&> chi_appos&> chi_conj&> chi_det&> pa_obj&&&&&
+1765&1&air&> chi_appos&> chi_dep&> chi_punct&> pa_conj&&&&&
+1765&1&air&> chi_appos&> pa_obl&&&&&&&
+1765&1&air&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1765&1&air&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&&
+1765&1&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1765&1&air&> chi_cc:preconj&> chi_conj&> pa_obl&&&&&&
+1765&1&air&> chi_compound&> chi_det&> pa_obl&&&&&&
+1765&1&air&> chi_compound&> chi_nmod:poss&> pa_obl&&&&&&
+1765&1&air&> chi_compound&> pa_compound&&&&&&&
+1765&1&air&> chi_compound&> pa_nsubj&&&&&&&
+1765&1&air&> chi_conj&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1765&1&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1765&1&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1765&1&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1765&1&air&> chi_conj&> pa_nsubj&&&&&&&
+1765&1&air&> chi_dep&> chi_nmod&> chi_punct&&&&&&
+1765&1&air&> chi_det&> chi_det:predet&> pa_nsubj&&&&&&
+1765&1&air&> chi_det&> chi_det:predet&> pa_obj&&&&&&
+1765&1&air&> chi_det&> chi_mark&> pa_obl&&&&&&
+1765&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nmod&&&&&
+1765&1&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1765&1&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1765&1&air&> chi_det&> pa_nmod:poss&&&&&&&
+1765&1&air&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&&
+1765&1&air&> chi_nmod&> pa_obl:agent&&&&&&&
+1765&1&air&> chi_nmod:poss&> pa_nmod&&&&&&&
+1765&1&air&> chi_punct&> pa_conj&&&&&&&
+1765&1&air&> chi_punct&> pa_obl&&&&&&&
+1770&200&air&> pa_nmod&&&&&&&&
+1770&162&air&> chi_amod&> pa_nmod&&&&&&&
+1770&93&air&> chi_det&> pa_nmod&&&&&&&
+1770&87&air&> chi_det&> pa_obl&&&&&&&
+1770&63&air&> chi_amod&> pa_obl&&&&&&&
+1770&56&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1770&53&air&> chi_det&> pa_nsubj&&&&&&&
+1770&50&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1770&38&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1770&35&air&> chi_det&> pa_obj&&&&&&&
+1770&27&air&> chi_amod&> pa_obj&&&&&&&
+1770&25&air&> chi_amod&> pa_nsubj&&&&&&&
+1770&25&air&> pa_compound&&&&&&&&
+1770&22&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1770&22&air&> chi_punct&> pa_compound&&&&&&&
+1770&18&air&> pa_obl&&&&&&&&
+1770&17&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1770&17&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1770&15&air&> chi_acl:relcl&> pa_nmod&&&&&&&
+1770&15&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1770&14&air&> pa_obj&&&&&&&&
+1770&12&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1770&12&air&> pa_nsubj&&&&&&&&
+1770&12&air&> pa_nsubj:pass&&&&&&&&
+1770&11&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1770&10&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1770&10&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1770&9&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1770&9&air&> chi_nmod&> pa_nmod&&&&&&&
+1770&8&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1770&7&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1770&7&air&> chi_acl:relcl&> pa_obl&&&&&&&
+1770&7&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1770&6&air&> chi_acl&> chi_amod&> chi_punct&> pa_nsubj&&&&&
+1770&6&air&> chi_acl&> chi_det&> pa_nsubj:pass&&&&&&
+1770&6&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1770&6&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1770&6&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1770&6&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1770&5&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1770&5&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1770&4&air&> chi_acl&> pa_nmod&&&&&&&
+1770&4&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1770&4&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1770&4&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1770&4&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1770&4&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1770&4&air&> chi_amod&> pa_xcomp&&&&&&&
+1770&4&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1770&4&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1770&4&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1770&4&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1770&3&air&> chi_acl&> chi_amod&> pa_obl&&&&&&
+1770&3&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1770&3&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1770&3&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1770&3&air&> chi_acl&> pa_nsubj&&&&&&&
+1770&3&air&> chi_acl&> pa_obj&&&&&&&
+1770&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1770&3&air&> chi_acl:relcl&> chi_amod&> pa_obl&&&&&&
+1770&3&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1770&3&air&> chi_acl:relcl&> chi_det&> pa_nsubj:pass&&&&&&
+1770&3&air&> chi_acl:relcl&> chi_punct&> pa_obl&&&&&&
+1770&3&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1770&3&air&> chi_compound&> pa_nsubj:pass&&&&&&&
+1770&3&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1770&3&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1770&3&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1770&2&air&> chi_acl&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&
+1770&2&air&> chi_acl&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1770&2&air&> chi_acl&> chi_amod&> chi_det&> pa_obl&&&&&
+1770&2&air&> chi_acl&> chi_cc&> chi_punct&> pa_conj&&&&&
+1770&2&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1770&2&air&> chi_acl&> chi_punct&> pa_nsubj&&&&&&
+1770&2&air&> chi_acl&> chi_punct&> pa_obl&&&&&&
+1770&2&air&> chi_acl&> pa_nsubj:pass&&&&&&&
+1770&2&air&> chi_acl&> pa_obl&&&&&&&
+1770&2&air&> chi_acl:relcl&> chi_cc&> chi_punct&> pa_conj&&&&&
+1770&2&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1770&2&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1770&2&air&> chi_acl:relcl&> chi_punct&> pa_nsubj&&&&&&
+1770&2&air&> chi_advmod&> pa_nmod&&&&&&&
+1770&2&air&> chi_amod&> chi_cc:preconj&> pa_nmod&&&&&&
+1770&2&air&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&
+1770&2&air&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&&
+1770&2&air&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&&
+1770&2&air&> chi_amod&> chi_conj&> chi_punct&> pa_obl&&&&&
+1770&2&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1770&2&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1770&2&air&> chi_amod&> chi_nmod&> pa_obj&&&&&&
+1770&2&air&> chi_amod&> chi_nmod:unmarked&> pa_nsubj&&&&&&
+1770&2&air&> chi_amod&> pa_obl:agent&&&&&&&
+1770&2&air&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1770&2&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1770&2&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1770&2&air&> chi_conj&> chi_det&> pa_obj&&&&&&
+1770&2&air&> chi_conj&> pa_nmod&&&&&&&
+1770&2&air&> chi_det&> pa_obl:agent&&&&&&&
+1770&2&air&> chi_nmod:poss&> pa_nsubj:pass&&&&&&&
+1770&2&air&> chi_punct&> pa_conj&&&&&&&
+1770&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&
+1770&1&air&> chi_acl&> chi_advcl&> chi_amod&> chi_cop&> chi_det&> chi_nsubj&> pa_advcl&&
+1770&1&air&> chi_acl&> chi_advcl&> chi_cop&> chi_mark&> chi_nsubj&> pa_csubj&&&
+1770&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_cc&> chi_conj&> chi_punct&> pa_conj&&
+1770&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&> pa_acl:relcl&&
+1770&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_aux&> chi_cc&> chi_cop&> chi_nsubj&> chi_punct&> pa_conj&
+1770&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_conj&> pa_obl&&&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_obj&&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_det&> pa_obl:agent&&&&&
+1770&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_obl&&&&&
+1770&1&air&> chi_acl&> chi_amod&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_acl&> chi_cc&> chi_cop&> chi_det&> chi_obl&> pa_conj&&&
+1770&1&air&> chi_acl&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&&
+1770&1&air&> chi_acl&> chi_det&> chi_punct&> pa_appos&&&&&
+1770&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_acl&> chi_det&> pa_conj&&&&&&
+1770&1&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1770&1&air&> chi_acl&> chi_det&> pa_obl:agent&&&&&&
+1770&1&air&> chi_acl&> chi_punct&> pa_appos&&&&&&
+1770&1&air&> chi_acl&> chi_punct&> pa_conj&&&&&&
+1770&1&air&> chi_acl&> chi_punct&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_acl&> pa_conj&&&&&&&
+1770&1&air&> chi_acl&> pa_obl:agent&&&&&&&
+1770&1&air&> chi_acl:relcl&> chi_advcl&> chi_amod&> chi_conj&> chi_cop&> chi_det&> chi_obl&> chi_punct&> pa_parataxis
+1770&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&
+1770&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> pa_obl&&&&&
+1770&1&air&> chi_acl:relcl&> chi_advmod&> chi_aux&> chi_cop&> chi_det&> chi_nsubj&> chi_punct&&
+1770&1&air&> chi_acl:relcl&> chi_advmod&> chi_cop&> chi_det&> chi_nsubj&> chi_punct&> pa_parataxis&&
+1770&1&air&> chi_acl:relcl&> chi_advmod&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1770&1&air&> chi_acl:relcl&> chi_advmod&> chi_punct&> pa_nmod&&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_aux&> chi_cop&> chi_det&> chi_nsubj&> chi_punct&> pa_acl:relcl&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_punct&> pa_conj&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> pa_obl&&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_conj&> chi_cop&> chi_obl&> pa_nmod&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl:agent&&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> chi_nmod&> pa_nmod&&&&&
+1770&1&air&> chi_acl:relcl&> chi_amod&> pa_obl:agent&&&&&&
+1770&1&air&> chi_acl:relcl&> chi_appos&> chi_det&> pa_obj&&&&&
+1770&1&air&> chi_acl:relcl&> chi_appos&> pa_obl&&&&&&
+1770&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&
+1770&1&air&> chi_acl:relcl&> chi_conj&> pa_obj&&&&&&
+1770&1&air&> chi_acl:relcl&> chi_det&> chi_det:predet&> pa_obj&&&&&
+1770&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_obj&&&&&
+1770&1&air&> chi_acl:relcl&> chi_det&> chi_punct&&&&&&
+1770&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_obl&&&&&
+1770&1&air&> chi_acl:relcl&> chi_nummod&> chi_punct&> pa_nsubj&&&&&
+1770&1&air&> chi_acl:relcl&> chi_parataxis&> pa_nsubj&&&&&&
+1770&1&air&> chi_acl:relcl&> chi_punct&> pa_nmod&&&&&&
+1770&1&air&> chi_acl:relcl&> pa_nsubj:pass&&&&&&&
+1770&1&air&> chi_advcl&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_aux&> chi_cop&> chi_nmod&> chi_nsubj&> chi_punct&> pa_parataxis&
+1770&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_det&> chi_orphan&> chi_punct&> pa_conj&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_cc&> pa_conj&&&&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_mark&> chi_nmod&> chi_nsubj&> pa_advcl&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_nmod:poss&> pa_obl&&&&&
+1770&1&air&> chi_advmod&> chi_amod&> chi_punct&> pa_appos&&&&&
+1770&1&air&> chi_advmod&> chi_amod&> pa_obl&&&&&&
+1770&1&air&> chi_advmod&> chi_cc&> chi_conj&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_obl&> pa_conj
+1770&1&air&> chi_advmod&> chi_det&> chi_punct&> pa_advcl&&&&&
+1770&1&air&> chi_advmod&> chi_det&> pa_nmod&&&&&&
+1770&1&air&> chi_advmod&> chi_punct&> pa_obl&&&&&&
+1770&1&air&> chi_advmod&> pa_nsubj:pass&&&&&&&
+1770&1&air&> chi_amod&> chi_appos&> chi_cc&> chi_punct&> pa_conj&&&&
+1770&1&air&> chi_amod&> chi_appos&> chi_det&> chi_punct&> pa_obl&&&&
+1770&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_det&> chi_mark&> pa_xcomp&&&
+1770&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&&
+1770&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&> pa_conj&&
+1770&1&air&> chi_amod&> chi_cc&> chi_dep&> chi_punct&> pa_conj&&&&
+1770&1&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1770&1&air&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&&
+1770&1&air&> chi_amod&> chi_cc&> chi_nmod:poss&> pa_conj&&&&&
+1770&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_obl&&&&
+1770&1&air&> chi_amod&> chi_compound&> chi_dep&> pa_conj&&&&&
+1770&1&air&> chi_amod&> chi_compound&> chi_det&> chi_punct&> pa_list&&&&
+1770&1&air&> chi_amod&> chi_compound&> chi_det&> pa_obj&&&&&
+1770&1&air&> chi_amod&> chi_compound&> pa_nmod&&&&&&
+1770&1&air&> chi_amod&> chi_compound&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_amod&> chi_conj&&&&&&&
+1770&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_acl:relcl&&
+1770&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&&&&
+1770&1&air&> chi_amod&> chi_conj&> chi_dep&> chi_list&> chi_punct&&&&
+1770&1&air&> chi_amod&> chi_conj&> chi_det&> chi_det:predet&> pa_obj&&&&
+1770&1&air&> chi_amod&> chi_conj&> chi_det&> pa_nsubj&&&&&
+1770&1&air&> chi_amod&> chi_conj&> chi_nmod&> pa_obj&&&&&
+1770&1&air&> chi_amod&> chi_conj&> pa_obj&&&&&&
+1770&1&air&> chi_amod&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> pa_ccomp&&&
+1770&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> pa_advcl&&&&
+1770&1&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1770&1&air&> chi_amod&> chi_dep&> chi_det&> chi_punct&> pa_nmod&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_obj&&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_mark&> chi_nsubj&> chi_nummod&> chi_obl&> chi_parataxis&> chi_punct&> pa_obl
+1770&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nmod&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&&
+1770&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_amod&> chi_det&> pa_iobj&&&&&&
+1770&1&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1770&1&air&> chi_amod&> chi_mark&> pa_advcl&&&&&&
+1770&1&air&> chi_amod&> chi_nmod&> chi_punct&&&&&&
+1770&1&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1770&1&air&> chi_amod&> chi_nmod:unmarked&> pa_obl&&&&&&
+1770&1&air&> chi_amod&> chi_nummod&> pa_nmod&&&&&&
+1770&1&air&> chi_amod&> chi_nummod&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1770&1&air&> chi_amod&> chi_punct&> pa_nmod&&&&&&
+1770&1&air&> chi_amod&> chi_punct&> pa_nsubj&&&&&&
+1770&1&air&> chi_appos&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&
+1770&1&air&> chi_appos&> chi_det&> pa_obl&&&&&&
+1770&1&air&> chi_cc&> chi_compound&> chi_det&> chi_punct&> pa_conj&&&&
+1770&1&air&> chi_cc&> chi_det&> pa_conj&&&&&&
+1770&1&air&> chi_cc&> pa_conj&&&&&&&
+1770&1&air&> chi_cc:preconj&> chi_conj&> chi_det&> pa_nsubj&&&&&
+1770&1&air&> chi_compound&> chi_conj&> pa_nmod&&&&&&
+1770&1&air&> chi_compound&> chi_det&> pa_obj&&&&&&
+1770&1&air&> chi_compound&> chi_parataxis&> chi_punct&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_conj&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_conj&> chi_nmod:poss&> pa_obl&&&&&&
+1770&1&air&> chi_conj&> chi_punct&> pa_acl:relcl&&&&&&
+1770&1&air&> chi_cop&> chi_mark&> chi_nsubj&> pa_xcomp&&&&&
+1770&1&air&> chi_dep&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1770&1&air&> chi_det&> chi_det:predet&> chi_nmod&> pa_nsubj:pass&&&&&
+1770&1&air&> chi_det&> chi_det:predet&> pa_nsubj&&&&&&
+1770&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1770&1&air&> chi_det&> chi_nmod:unmarked&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&&
+1770&1&air&> chi_nmod&> pa_obl&&&&&&&
+1770&1&air&> chi_nmod:poss&> pa_nmod&&&&&&&
+1770&1&air&> chi_nmod:poss&> pa_obj&&&&&&&
+1770&1&air&> chi_punct&> pa_nsubj:pass&&&&&&&
+1770&1&air&> pa_conj&&&&&&&&
+1770&1&air&> pa_obl:agent&&&&&&&&
+1770&1&air&> pa_obl:unmarked&&&&&&&&
+1770&1&air&> pa_xcomp&&&&&&&&
+1775&174&air&> pa_nmod&&&&&&&&
+1775&145&air&> chi_amod&> pa_nmod&&&&&&&
+1775&129&air&> chi_det&> pa_nmod&&&&&&&
+1775&91&air&> chi_amod&> pa_obl&&&&&&&
+1775&73&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1775&70&air&> chi_det&> pa_nsubj&&&&&&&
+1775&63&air&> chi_det&> pa_obl&&&&&&&
+1775&60&air&> chi_det&> pa_obj&&&&&&&
+1775&47&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1775&41&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1775&41&air&> pa_compound&&&&&&&&
+1775&36&air&> pa_obl&&&&&&&&
+1775&33&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1775&30&air&> chi_amod&> pa_obj&&&&&&&
+1775&25&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1775&22&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1775&21&air&> chi_amod&> pa_nsubj&&&&&&&
+1775&16&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1775&16&air&> chi_punct&> pa_compound&&&&&&&
+1775&15&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1775&15&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1775&14&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1775&13&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1775&13&air&> pa_nsubj&&&&&&&&
+1775&13&air&> pa_obj&&&&&&&&
+1775&12&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1775&11&air&> chi_nmod&> pa_nmod&&&&&&&
+1775&11&air&> pa_nsubj:pass&&&&&&&&
+1775&10&air&> chi_acl&> pa_nmod&&&&&&&
+1775&10&air&> chi_cc&> pa_conj&&&&&&&
+1775&9&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1775&9&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1775&8&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1775&8&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1775&7&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1775&7&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1775&7&air&> chi_acl:relcl&> pa_nmod&&&&&&&
+1775&7&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1775&7&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1775&7&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1775&7&air&> chi_det&> chi_nummod&> pa_nmod&&&&&&
+1775&6&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1775&6&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1775&6&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1775&6&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1775&5&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1775&5&air&> chi_acl&> chi_det&> pa_nsubj:pass&&&&&&
+1775&5&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1775&5&air&> chi_amod&> chi_nmod:poss&> pa_obj&&&&&&
+1775&5&air&> chi_amod&> pa_obl:agent&&&&&&&
+1775&5&air&> chi_compound&> chi_det&> pa_obl&&&&&&
+1775&5&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1775&5&air&> chi_det&> chi_nummod&> pa_obj&&&&&&
+1775&4&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1775&4&air&> chi_acl&> chi_amod&> pa_obl&&&&&&
+1775&4&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1775&4&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1775&4&air&> chi_acl:relcl&> chi_det&> pa_nsubj:pass&&&&&&
+1775&4&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1775&4&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1775&4&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1775&4&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1775&4&air&> chi_compound&> pa_nmod&&&&&&&
+1775&4&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1775&4&air&> chi_det&> pa_obl:agent&&&&&&&
+1775&3&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1775&3&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1775&3&air&> chi_acl&> pa_obl&&&&&&&
+1775&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1775&3&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1775&3&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1775&3&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1775&3&air&> chi_nmod&> pa_obl&&&&&&&
+1775&3&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1775&2&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_obj&&&&&
+1775&2&air&> chi_acl&> chi_amod&> chi_det&> pa_obj&&&&&
+1775&2&air&> chi_acl&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1775&2&air&> chi_acl&> pa_nsubj:pass&&&&&&&
+1775&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1775&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1775&2&air&> chi_acl:relcl&> chi_amod&> pa_obl:agent&&&&&&
+1775&2&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1775&2&air&> chi_acl:relcl&> pa_nsubj&&&&&&&
+1775&2&air&> chi_advmod&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1775&2&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1775&2&air&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&&
+1775&2&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1775&2&air&> chi_amod&> chi_compound&> pa_nmod&&&&&&
+1775&2&air&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&&
+1775&2&air&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&&
+1775&2&air&> chi_amod&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1775&2&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1775&2&air&> chi_amod&> chi_det&> chi_nmod:unmarked&> pa_nsubj:pass&&&&&
+1775&2&air&> chi_amod&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1775&2&air&> chi_amod&> chi_nmod&> pa_nsubj&&&&&&
+1775&2&air&> chi_amod&> chi_punct&> pa_nsubj&&&&&&
+1775&2&air&> chi_cc&> chi_compound&> pa_conj&&&&&&
+1775&2&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1775&2&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1775&2&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1775&2&air&> chi_conj&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1775&2&air&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&&
+1775&2&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&
+1775&2&air&> chi_det&> chi_nmod:unmarked&> pa_nsubj:pass&&&&&&
+1775&2&air&> chi_det&> chi_punct&> pa_conj&&&&&&
+1775&2&air&> chi_det&> chi_punct&> pa_nmod&&&&&&
+1775&2&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1775&2&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1775&2&air&> chi_det&> pa_nmod:poss&&&&&&&
+1775&2&air&> chi_nmod&> pa_nsubj&&&&&&&
+1775&2&air&> chi_punct&> pa_nmod&&&&&&&
+1775&2&air&> pa_conj&&&&&&&&
+1775&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&
+1775&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&
+1775&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_compound&> chi_det&> pa_nsubj&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj:pass&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_det&> pa_obl:agent&&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_obl&&&&&
+1775&1&air&> chi_acl&> chi_amod&> pa_nsubj:pass&&&&&&
+1775&1&air&> chi_acl&> chi_amod&> pa_obj&&&&&&
+1775&1&air&> chi_acl&> chi_appos&> chi_det&> pa_obl&&&&&
+1775&1&air&> chi_acl&> chi_cc&> chi_conj&> chi_punct&> pa_conj&&&&
+1775&1&air&> chi_acl&> chi_cc&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1775&1&air&> chi_acl&> chi_cc&> chi_det&> pa_conj&&&&&
+1775&1&air&> chi_acl&> chi_compound&> pa_nsubj&&&&&&
+1775&1&air&> chi_acl&> chi_conj&> chi_det&> chi_mark&> chi_nmod&> chi_nummod&> pa_dislocated&&
+1775&1&air&> chi_acl&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_acl&> chi_conj&> chi_det&> pa_obl&&&&&
+1775&1&air&> chi_acl&> chi_det&> chi_nmod&> pa_obj&&&&&
+1775&1&air&> chi_acl&> chi_det&> chi_nmod&> pa_obl&&&&&
+1775&1&air&> chi_acl&> chi_det&> chi_nummod&> pa_nmod&&&&&
+1775&1&air&> chi_acl&> chi_det&> chi_nummod&> pa_obj&&&&&
+1775&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1775&1&air&> chi_acl&> pa_nsubj&&&&&&&
+1775&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&
+1775&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_cc&> pa_conj&&&&
+1775&1&air&> chi_acl:relcl&> chi_advmod&> chi_cc&> chi_punct&> pa_conj&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> pa_conj&&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> chi_conj&> chi_det&> pa_obl&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> chi_det&> pa_obl&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod:unmarked&> pa_nmod&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_nmod&> pa_nmod&&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_punct&> pa_conj&&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> chi_punct&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> pa_obj&&&&&&
+1775&1&air&> chi_acl:relcl&> chi_amod&> pa_obl&&&&&&
+1775&1&air&> chi_acl:relcl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1775&1&air&> chi_acl:relcl&> chi_compound&> chi_det&> chi_punct&> pa_obl&&&&
+1775&1&air&> chi_acl:relcl&> chi_compound&> pa_obj&&&&&&
+1775&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> chi_punct&> pa_appos&&&&
+1775&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> pa_obl&&&&&
+1775&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_obl&&&&&
+1775&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_obl&&&&&
+1775&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_parataxis&&&&&
+1775&1&air&> chi_acl:relcl&> chi_nmod&> pa_nmod&&&&&&
+1775&1&air&> chi_acl:relcl&> chi_nmod&> pa_obj&&&&&&
+1775&1&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1775&1&air&> chi_advcl&> chi_advmod&> chi_conj&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_punct&
+1775&1&air&> chi_advcl&> chi_advmod&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&&&
+1775&1&air&> chi_advcl&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_punct&> pa_advcl&&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_nsubj&> chi_parataxis&> chi_punct&> pa_parataxis&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_nmod&&&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_nmod&> chi_punct&> pa_conj&&&&
+1775&1&air&> chi_advmod&> chi_amod&> chi_punct&> pa_nmod&&&&&
+1775&1&air&> chi_advmod&> chi_amod&> pa_obl&&&&&&
+1775&1&air&> chi_advmod&> chi_cc&> chi_det&> chi_nmod&> pa_conj&&&&
+1775&1&air&> chi_advmod&> chi_conj&> chi_nmod&> chi_punct&> pa_appos&&&&
+1775&1&air&> chi_advmod&> chi_conj&> pa_nmod&&&&&&
+1775&1&air&> chi_advmod&> chi_det&> pa_nmod&&&&&&
+1775&1&air&> chi_amod&> chi_appos&> chi_compound&> pa_obj&&&&&
+1775&1&air&> chi_amod&> chi_appos&> chi_det&> chi_nummod&> pa_obl&&&&
+1775&1&air&> chi_amod&> chi_appos&> chi_det&> pa_nsubj&&&&&
+1775&1&air&> chi_amod&> chi_appos&> chi_det&> pa_obl&&&&&
+1775&1&air&> chi_amod&> chi_appos&> chi_punct&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_amod&> chi_appos&> chi_punct&> pa_obl&&&&&
+1775&1&air&> chi_amod&> chi_appos&> pa_nmod&&&&&&
+1775&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&> pa_acl:relcl&&
+1775&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_det&> chi_punct&> pa_conj&&&
+1775&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nsubj&> chi_punct&> pa_conj&&&
+1775&1&air&> chi_amod&> chi_compound&> chi_cop&> chi_nsubj&> chi_punct&> pa_parataxis&&&
+1775&1&air&> chi_amod&> chi_compound&> chi_det&> chi_nmod&> pa_nmod&&&&
+1775&1&air&> chi_amod&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> pa_ccomp&&&
+1775&1&air&> chi_amod&> chi_conj&> chi_det&> chi_nmod&> pa_obl&&&&
+1775&1&air&> chi_amod&> chi_conj&> chi_det&> pa_obj&&&&&
+1775&1&air&> chi_amod&> chi_conj&> chi_nmod&> pa_nmod&&&&&
+1775&1&air&> chi_amod&> chi_conj&> pa_nsubj&&&&&&
+1775&1&air&> chi_amod&> chi_conj&> pa_obj&&&&&&
+1775&1&air&> chi_amod&> chi_cop&> chi_det&> chi_nsubj&> pa_acl:relcl&&&&
+1775&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&&&
+1775&1&air&> chi_amod&> chi_dep&> chi_nummod&> pa_nmod&&&&&
+1775&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_obj&&&&&
+1775&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_nsubj&> chi_punct&> pa_obl&&&
+1775&1&air&> chi_amod&> chi_det&> chi_nmod:unmarked&> pa_nmod&&&&&
+1775&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1775&1&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1775&1&air&> chi_amod&> chi_det&> pa_conj&&&&&&
+1775&1&air&> chi_amod&> chi_det&> pa_nsubj:outer&&&&&&
+1775&1&air&> chi_amod&> chi_mark&> chi_nmod&> pa_nmod&&&&&
+1775&1&air&> chi_amod&> chi_nmod&> chi_punct&> pa_nmod&&&&&
+1775&1&air&> chi_amod&> chi_nmod&> pa_obj&&&&&&
+1775&1&air&> chi_amod&> chi_nmod:poss&> chi_punct&> pa_obl&&&&&
+1775&1&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1775&1&air&> chi_amod&> chi_nummod&> pa_nmod&&&&&&
+1775&1&air&> chi_amod&> chi_punct&> pa_advcl&&&&&&
+1775&1&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1775&1&air&> chi_amod&> chi_punct&> pa_xcomp&&&&&&
+1775&1&air&> chi_amod&> pa_xcomp&&&&&&&
+1775&1&air&> chi_appos&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&&
+1775&1&air&> chi_appos&> chi_compound&> chi_det&> pa_obl&&&&&
+1775&1&air&> chi_appos&> chi_conj&> pa_nmod&&&&&&
+1775&1&air&> chi_appos&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1775&1&air&> chi_appos&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_appos&> chi_det&> pa_nmod&&&&&&
+1775&1&air&> chi_appos&> chi_det&> pa_obj&&&&&&
+1775&1&air&> chi_appos&> pa_appos&&&&&&&
+1775&1&air&> chi_appos&> pa_nmod&&&&&&&
+1775&1&air&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1775&1&air&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&&
+1775&1&air&> chi_cc&> chi_det&> pa_conj&&&&&&
+1775&1&air&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&&&
+1775&1&air&> chi_cc&> chi_punct&> pa_compound&&&&&&
+1775&1&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1775&1&air&> chi_cc:preconj&> chi_conj&> pa_obl&&&&&&
+1775&1&air&> chi_compound&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1775&1&air&> chi_compound&> chi_det&> chi_nmod&> pa_obl&&&&&
+1775&1&air&> chi_compound&> pa_nsubj&&&&&&&
+1775&1&air&> chi_conj&> chi_cop&> chi_det&> chi_mark&> chi_obl:unmarked&> pa_xcomp&&&
+1775&1&air&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&&&&&
+1775&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&
+1775&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_obj&&&&&
+1775&1&air&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1775&1&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1775&1&air&> chi_conj&> chi_det&> pa_obj&&&&&&
+1775&1&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1775&1&air&> chi_conj&> chi_punct&> pa_conj&&&&&&
+1775&1&air&> chi_conj&> chi_punct&> pa_nsubj&&&&&&
+1775&1&air&> chi_conj&> pa_compound&&&&&&&
+1775&1&air&> chi_conj&> pa_nmod&&&&&&&
+1775&1&air&> chi_conj&> pa_obl&&&&&&&
+1775&1&air&> chi_cop&> chi_nsubj&> chi_punct&> pa_conj&&&&&
+1775&1&air&> chi_det&> chi_det:predet&> chi_punct&> pa_obj&&&&&
+1775&1&air&> chi_det&> chi_nmod&> chi_nummod&> pa_nmod&&&&&
+1775&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:outer&&&&&
+1775&1&air&> chi_det&> chi_nmod&> pa_obl:agent&&&&&&
+1775&1&air&> chi_det&> chi_nmod:unmarked&> pa_nmod&&&&&&
+1775&1&air&> chi_det&> chi_nummod&> pa_nsubj&&&&&&
+1775&1&air&> chi_det&> chi_punct&> pa_vocative&&&&&&
+1775&1&air&> chi_nmod:poss&> pa_obj&&&&&&&
+1775&1&air&> chi_punct&> pa_obl&&&&&&&
+1775&1&air&> pa_appos&&&&&&&&
+1775&1&air&> pa_obl:agent&&&&&&&&
+1780&491&air&> chi_amod&> pa_nmod&&&&&&&
+1780&145&air&> chi_amod&> pa_obl&&&&&&&
+1780&141&air&> pa_nmod&&&&&&&&
+1780&123&air&> chi_amod&> pa_obj&&&&&&&
+1780&121&air&> chi_det&> pa_nmod&&&&&&&
+1780&85&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1780&82&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1780&81&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1780&75&air&> chi_amod&> pa_nsubj&&&&&&&
+1780&74&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1780&73&air&> chi_det&> pa_nsubj&&&&&&&
+1780&68&air&> chi_det&> pa_obj&&&&&&&
+1780&67&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1780&65&air&> chi_det&> pa_obl&&&&&&&
+1780&56&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1780&53&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1780&44&air&> pa_compound&&&&&&&&
+1780&44&air&> pa_obl&&&&&&&&
+1780&34&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1780&34&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1780&31&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1780&26&air&> chi_punct&> pa_compound&&&&&&&
+1780&26&air&> pa_obj&&&&&&&&
+1780&21&air&> chi_compound&> pa_nmod&&&&&&&
+1780&20&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1780&17&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1780&17&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1780&15&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1780&14&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1780&14&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1780&13&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1780&12&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1780&12&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1780&11&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1780&11&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1780&10&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1780&10&air&> pa_nsubj:pass&&&&&&&&
+1780&9&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1780&8&air&> chi_acl&> chi_amod&> pa_obl&&&&&&
+1780&8&air&> chi_acl:relcl&> chi_amod&> pa_obj&&&&&&
+1780&8&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1780&8&air&> chi_amod&> chi_punct&> pa_nsubj&&&&&&
+1780&8&air&> chi_amod&> pa_xcomp&&&&&&&
+1780&8&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1780&8&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1780&7&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1780&7&air&> chi_acl&> pa_nmod&&&&&&&
+1780&7&air&> chi_acl:relcl&> chi_amod&> pa_obl&&&&&&
+1780&7&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1780&7&air&> chi_amod&> chi_nmod&> pa_obj&&&&&&
+1780&7&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1780&7&air&> chi_nmod&> pa_nmod&&&&&&&
+1780&7&air&> pa_nsubj&&&&&&&&
+1780&6&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1780&6&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1780&6&air&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&&
+1780&6&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1780&6&air&> chi_amod&> pa_obl:agent&&&&&&&
+1780&6&air&> chi_compound&> pa_obl&&&&&&&
+1780&6&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1780&6&air&> chi_nmod&> pa_obl&&&&&&&
+1780&5&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1780&5&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1780&5&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1780&5&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1780&5&air&> chi_amod&> chi_conj&> pa_obj&&&&&&
+1780&5&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1780&5&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1780&5&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1780&5&air&> chi_conj&> pa_nmod&&&&&&&
+1780&5&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1780&4&air&> chi_acl&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1780&4&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1780&4&air&> chi_acl&> chi_amod&> chi_det&> pa_obl&&&&&
+1780&4&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1780&4&air&> chi_acl:relcl&> pa_nmod&&&&&&&
+1780&4&air&> chi_amod&> chi_appos&> pa_nmod&&&&&&
+1780&4&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1780&4&air&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&&
+1780&4&air&> chi_amod&> chi_compound&> pa_obl&&&&&&
+1780&4&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1780&4&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1780&4&air&> chi_amod&> chi_nmod&> pa_obl&&&&&&
+1780&4&air&> chi_amod&> chi_punct&> pa_nmod&&&&&&
+1780&4&air&> chi_amod&> pa_compound&&&&&&&
+1780&4&air&> chi_cc&> pa_conj&&&&&&&
+1780&4&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1780&4&air&> chi_compound&> chi_det&> pa_obj&&&&&&
+1780&4&air&> chi_det&> chi_nummod&> pa_nmod&&&&&&
+1780&4&air&> chi_det&> chi_nummod&> pa_nsubj&&&&&&
+1780&3&air&> chi_acl&> chi_compound&> pa_nmod&&&&&&
+1780&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1780&3&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1780&3&air&> chi_amod&> chi_cc&> chi_compound&> chi_punct&> pa_conj&&&&
+1780&3&air&> chi_amod&> chi_cc:preconj&> chi_conj&> pa_obj&&&&&
+1780&3&air&> chi_amod&> chi_conj&> chi_punct&> pa_nsubj&&&&&
+1780&3&air&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&
+1780&3&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1780&3&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1780&3&air&> chi_amod&> chi_nmod:poss&> pa_obj&&&&&&
+1780&3&air&> chi_amod&> chi_nmod:poss&> pa_obl&&&&&&
+1780&3&air&> chi_cc&> chi_det&> pa_conj&&&&&&
+1780&3&air&> chi_compound&> chi_conj&> pa_nmod&&&&&&
+1780&3&air&> chi_compound&> chi_nummod&> pa_compound&&&&&&
+1780&3&air&> chi_compound&> chi_punct&> pa_conj&&&&&&
+1780&3&air&> chi_compound&> pa_nsubj&&&&&&&
+1780&3&air&> chi_det&> chi_nummod&> pa_nsubj:pass&&&&&&
+1780&3&air&> chi_det&> chi_nummod&> pa_obj&&&&&&
+1780&3&air&> chi_nmod:poss&> pa_nsubj:pass&&&&&&&
+1780&2&air&> chi_acl&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&
+1780&2&air&> chi_acl&> chi_amod&> chi_det&> pa_obj&&&&&
+1780&2&air&> chi_acl&> chi_amod&> chi_punct&> pa_nsubj&&&&&
+1780&2&air&> chi_acl&> chi_amod&> pa_obj&&&&&&
+1780&2&air&> chi_acl&> chi_compound&> chi_det&> chi_punct&> pa_nsubj&&&&
+1780&2&air&> chi_acl&> chi_det&> pa_nsubj:pass&&&&&&
+1780&2&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1780&2&air&> chi_acl&> pa_nsubj&&&&&&&
+1780&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&
+1780&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1780&2&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1780&2&air&> chi_acl:relcl&> pa_obl&&&&&&&
+1780&2&air&> chi_advmod&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1780&2&air&> chi_advmod&> chi_amod&> chi_punct&> pa_obl&&&&&
+1780&2&air&> chi_amod&> chi_cc&> chi_compound&> pa_conj&&&&&
+1780&2&air&> chi_amod&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&&
+1780&2&air&> chi_amod&> chi_cc&> chi_nmod&> pa_conj&&&&&
+1780&2&air&> chi_amod&> chi_compound&> chi_conj&> pa_nmod&&&&&
+1780&2&air&> chi_amod&> chi_conj&> chi_cop&> chi_mark&> pa_xcomp&&&&
+1780&2&air&> chi_amod&> chi_conj&> chi_det&> pa_obj&&&&&
+1780&2&air&> chi_amod&> chi_conj&> chi_nmod&> pa_nmod&&&&&
+1780&2&air&> chi_amod&> chi_conj&> pa_nsubj&&&&&&
+1780&2&air&> chi_amod&> chi_conj&> pa_nsubj:pass&&&&&&
+1780&2&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1780&2&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1780&2&air&> chi_amod&> chi_det&> chi_punct&> pa_conj&&&&&
+1780&2&air&> chi_amod&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1780&2&air&> chi_amod&> chi_nmod&> pa_nsubj&&&&&&
+1780&2&air&> chi_amod&> chi_nmod&> pa_nsubj:pass&&&&&&
+1780&2&air&> chi_amod&> chi_punct&> pa_obj&&&&&&
+1780&2&air&> chi_cc&> chi_det&> chi_nmod&> pa_conj&&&&&
+1780&2&air&> chi_compound&> chi_det&> pa_obl&&&&&&
+1780&2&air&> chi_conj&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1780&2&air&> chi_conj&> pa_obl&&&&&&&
+1780&2&air&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&&
+1780&2&air&> chi_nmod:poss&> pa_nmod&&&&&&&
+1780&2&air&> chi_nmod:poss&> pa_obj&&&&&&&
+1780&2&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1780&2&air&> chi_nummod&> pa_nmod&&&&&&&
+1780&2&air&> chi_punct&> pa_appos&&&&&&&
+1780&2&air&> pa_obl:unmarked&&&&&&&&
+1780&1&air&> chi_acl&> chi_acl:relcl&> chi_cop&> chi_det&> chi_mark&> pa_nsubj&&&
+1780&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&
+1780&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_obj&&&&&
+1780&1&air&> chi_acl&> chi_acl:relcl&> pa_nmod&&&&&&
+1780&1&air&> chi_acl&> chi_acl:relcl&> pa_obj&&&&&&
+1780&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_cc&> chi_conj&> chi_det&> chi_punct&> pa_conj&
+1780&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&
+1780&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&
+1780&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_compound&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&> pa_parataxis
+1780&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_punct&> pa_obl&&&&
+1780&1&air&> chi_acl&> chi_advmod&> chi_cc&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_compound&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_conj&> pa_obl&&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_conj&> pa_obl:agent&&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_ccomp&&
+1780&1&air&> chi_acl&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_det&> pa_conj&&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_nmod&> chi_punct&> pa_nmod&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_nmod&> chi_punct&> pa_obl&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_appos&&&&&
+1780&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_appos&> chi_det&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_cc&> chi_compound&> pa_conj&&&&&
+1780&1&air&> chi_acl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_acl&> chi_cc&> chi_punct&> pa_conj&&&&&
+1780&1&air&> chi_acl&> chi_compound&> chi_det&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_acl&> chi_compound&> chi_det&> pa_obj&&&&&
+1780&1&air&> chi_acl&> chi_compound&> chi_det&> pa_obl&&&&&
+1780&1&air&> chi_acl&> chi_conj&> chi_det&> pa_obl&&&&&
+1780&1&air&> chi_acl&> chi_conj&> chi_punct&> pa_nsubj&&&&&
+1780&1&air&> chi_acl&> chi_conj&> pa_nmod&&&&&&
+1780&1&air&> chi_acl&> chi_det&> chi_nummod&> pa_nmod&&&&&
+1780&1&air&> chi_acl&> chi_det&> chi_nummod&> pa_obl&&&&&
+1780&1&air&> chi_acl&> chi_det&> chi_punct&> pa_conj&&&&&
+1780&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_acl&> chi_det&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_acl&> chi_det&> pa_appos&&&&&&
+1780&1&air&> chi_acl&> chi_det&> pa_obl:agent&&&&&&
+1780&1&air&> chi_acl&> pa_obl&&&&&&&
+1780&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_cop&> chi_nsubj&> chi_obl:unmarked&> chi_punct&> pa_parataxis&
+1780&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_det&> pa_obj&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_cc:preconj&> pa_obj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> chi_det&> pa_nmod&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_conj&> chi_det&> pa_obj&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_conj&> pa_obj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> pa_ccomp&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_det:predet&> pa_obj&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_parataxis&> pa_dislocated&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_mark&> chi_nmod&> chi_punct&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_nmod&> pa_nmod&&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> chi_punct&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_acl:relcl&> chi_amod&> pa_nsubj&&&&&&
+1780&1&air&> chi_acl:relcl&> chi_cc:preconj&> chi_conj&> chi_det&> chi_nmod:unmarked&> chi_punct&> pa_nsubj&&
+1780&1&air&> chi_acl:relcl&> chi_compound&> chi_cop&> chi_nsubj&> chi_punct&&&&
+1780&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> chi_det:predet&> pa_obj&&&&
+1780&1&air&> chi_acl:relcl&> chi_conj&> pa_nmod&&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_det:predet&> pa_obj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_obj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_nummod&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_conj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:outer&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_obj&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> pa_nsubj:outer&&&&&&
+1780&1&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1780&1&air&> chi_acl:relcl&> pa_advcl:relcl&&&&&&&
+1780&1&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1780&1&air&> chi_advcl&> chi_advmod&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&
+1780&1&air&> chi_advcl&> chi_advmod&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&&&
+1780&1&air&> chi_advcl&> chi_amod&> chi_aux&> chi_cop&> chi_mark&> chi_nsubj&> pa_parataxis&&
+1780&1&air&> chi_advcl&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> pa_conj&&
+1780&1&air&> chi_advcl&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_ccomp&&
+1780&1&air&> chi_advcl&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_conj&&
+1780&1&air&> chi_advcl&> chi_amod&> pa_nmod&&&&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_appos&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&> pa_conj
+1780&1&air&> chi_advmod&> chi_amod&> chi_aux&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> pa_advcl&
+1780&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> pa_conj&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_punct&> pa_conj&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_det&> chi_det:predet&> chi_punct&> pa_nsubj:pass&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_det&> chi_det:predet&> pa_conj&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_det&> chi_nmod&> pa_obl&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_nmod&&&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_obj&&&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_mark&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_advmod&> chi_amod&> chi_nmod&> pa_obj&&&&&
+1780&1&air&> chi_advmod&> chi_amod&> pa_obl&&&&&&
+1780&1&air&> chi_advmod&> chi_cc&> chi_conj&> chi_det&> chi_punct&> pa_conj&&&
+1780&1&air&> chi_advmod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_advmod&> chi_cc&> chi_det&> pa_conj&&&&&
+1780&1&air&> chi_advmod&> chi_cc&> chi_nmod&> pa_conj&&&&&
+1780&1&air&> chi_advmod&> chi_compound&> pa_nmod&&&&&&
+1780&1&air&> chi_advmod&> chi_conj&> chi_det&> chi_punct&> pa_parataxis&&&&
+1780&1&air&> chi_advmod&> chi_conj&> chi_det&> pa_nsubj&&&&&
+1780&1&air&> chi_advmod&> chi_det&> pa_nsubj&&&&&&
+1780&1&air&> chi_advmod&> chi_nmod&> chi_punct&> pa_conj&&&&&
+1780&1&air&> chi_advmod&> chi_punct&> pa_appos&&&&&&
+1780&1&air&> chi_advmod&> pa_nsubj&&&&&&&
+1780&1&air&> chi_advmod&> pa_obl&&&&&&&
+1780&1&air&> chi_amod&> chi_appos&> chi_compound&> chi_nmod&> chi_nummod&> pa_conj&&&
+1780&1&air&> chi_amod&> chi_appos&> chi_conj&> pa_obj&&&&&
+1780&1&air&> chi_amod&> chi_appos&> chi_det&> pa_nmod&&&&&
+1780&1&air&> chi_amod&> chi_appos&> chi_det&> pa_obj&&&&&
+1780&1&air&> chi_amod&> chi_appos&> chi_punct&> pa_conj&&&&&
+1780&1&air&> chi_amod&> chi_appos&> pa_obj&&&&&&
+1780&1&air&> chi_amod&> chi_appos&> pa_obl&&&&&&
+1780&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_mark&> pa_xcomp&&&&
+1780&1&air&> chi_amod&> chi_aux&> chi_mark&> chi_nsubj&> pa_acl&&&&
+1780&1&air&> chi_amod&> chi_cc&> chi_compound&> chi_det&> pa_obl&&&&
+1780&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_det&> chi_punct&> pa_conj&&&
+1780&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_det&> pa_conj&&&&
+1780&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_mark&> chi_nsubj&> chi_nsubj:outer&> chi_obl&> chi_parataxis&> chi_punct
+1780&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> chi_parataxis&> chi_punct&> pa_conj&
+1780&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_punct&> pa_acl:relcl&&&
+1780&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&
+1780&1&air&> chi_amod&> chi_cc&> chi_nmod&> pa_nmod&&&&&
+1780&1&air&> chi_amod&> chi_cc&> pa_nsubj:pass&&&&&&
+1780&1&air&> chi_amod&> chi_cc:preconj&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_amod&> chi_cc:preconj&> pa_nmod&&&&&&
+1780&1&air&> chi_amod&> chi_compound&> chi_det&> chi_nmod&> pa_nsubj&&&&
+1780&1&air&> chi_amod&> chi_compound&> chi_punct&> pa_conj&&&&&
+1780&1&air&> chi_amod&> chi_compound&> pa_nsubj:pass&&&&&&
+1780&1&air&> chi_amod&> chi_compound&> pa_obj&&&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_det&> chi_det:predet&> chi_punct&> pa_nsubj:pass&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_discourse&> chi_list&> chi_punct&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_nmod&> chi_nmod:poss&> pa_obj&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_parataxis&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1780&1&air&> chi_amod&> chi_conj&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_amod&> chi_conj&> pa_compound&&&&&&
+1780&1&air&> chi_amod&> chi_conj&> pa_obl:agent&&&&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_det&> chi_parataxis&> pa_parataxis&&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nmod&> chi_nsubj&> pa_advcl&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_nsubj:outer&> chi_punct&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_mark&> pa_advcl&&&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&> pa_advcl&&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_nsubj&> pa_ccomp&&&&&
+1780&1&air&> chi_amod&> chi_cop&> chi_punct&> pa_acl&&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj&&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_mark&> pa_advcl&&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nmod&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_nummod&> chi_parataxis&> pa_nmod&&&&
+1780&1&air&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&&
+1780&1&air&> chi_amod&> chi_det&> pa_nsubj:outer&&&&&&
+1780&1&air&> chi_amod&> chi_mark&> pa_nmod&&&&&&
+1780&1&air&> chi_amod&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&
+1780&1&air&> chi_amod&> chi_nmod&> pa_obl:agent&&&&&&
+1780&1&air&> chi_amod&> chi_nmod:unmarked&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_amod&> chi_nummod&> chi_punct&> pa_parataxis&&&&&
+1780&1&air&> chi_amod&> chi_nummod&> pa_compound&&&&&&
+1780&1&air&> chi_amod&> chi_parataxis&> chi_punct&&&&&&
+1780&1&air&> chi_amod&> chi_parataxis&> chi_punct&> pa_appos&&&&&
+1780&1&air&> chi_amod&> chi_punct&&&&&&&
+1780&1&air&> chi_amod&> chi_punct&> pa_appos&&&&&&
+1780&1&air&> chi_amod&> pa_nsubj:outer&&&&&&&
+1780&1&air&> chi_appos&> chi_compound&> chi_list&> chi_punct&&&&&
+1780&1&air&> chi_appos&> chi_compound&> chi_punct&> pa_list&&&&&
+1780&1&air&> chi_appos&> chi_compound&> pa_appos&&&&&&
+1780&1&air&> chi_appos&> chi_det&> pa_nmod&&&&&&
+1780&1&air&> chi_appos&> pa_nmod&&&&&&&
+1780&1&air&> chi_cc&> chi_compound&> chi_det&> pa_conj&&&&&
+1780&1&air&> chi_cc&> chi_compound&> pa_obj&&&&&&
+1780&1&air&> chi_cc&> chi_conj&> chi_det&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_cc&> chi_conj&> chi_det&> pa_conj&&&&&
+1780&1&air&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1780&1&air&> chi_cc&> chi_nmod&> pa_conj&&&&&&
+1780&1&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1780&1&air&> chi_cc:preconj&> chi_compound&> chi_cop&> chi_nsubj&> pa_acl:relcl&&&&
+1780&1&air&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_cc:preconj&> chi_conj&> pa_obl&&&&&&
+1780&1&air&> chi_compound&> chi_conj&> chi_det&> pa_nmod&&&&&
+1780&1&air&> chi_compound&> chi_conj&> chi_punct&> pa_nsubj&&&&&
+1780&1&air&> chi_compound&> chi_conj&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_compound&> chi_conj&> pa_nsubj&&&&&&
+1780&1&air&> chi_compound&> chi_conj&> pa_nsubj:pass&&&&&&
+1780&1&air&> chi_compound&> chi_conj&> pa_obl&&&&&&
+1780&1&air&> chi_compound&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1780&1&air&> chi_compound&> chi_det&> chi_nmod&> pa_obj&&&&&
+1780&1&air&> chi_compound&> chi_det&> chi_punct&> pa_appos&&&&&
+1780&1&air&> chi_compound&> chi_nummod&> pa_nmod&&&&&&
+1780&1&air&> chi_compound&> chi_punct&> pa_obl&&&&&&
+1780&1&air&> chi_compound&> pa_nsubj:pass&&&&&&&
+1780&1&air&> chi_compound&> pa_obj&&&&&&&
+1780&1&air&> chi_conj&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&
+1780&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1780&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_obj&&&&&
+1780&1&air&> chi_conj&> chi_det&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1780&1&air&> chi_conj&> chi_det&> pa_nsubj:outer&&&&&&
+1780&1&air&> chi_conj&> chi_det&> pa_obl:agent&&&&&&
+1780&1&air&> chi_conj&> pa_nsubj:pass&&&&&&&
+1780&1&air&> chi_cop&> chi_mark&> chi_nsubj&> pa_advcl&&&&&
+1780&1&air&> chi_cop&> chi_mark&> pa_acl&&&&&&
+1780&1&air&> chi_dep&> chi_nummod&> chi_punct&> pa_obl&&&&&
+1780&1&air&> chi_det&> chi_det:predet&> pa_nsubj&&&&&&
+1780&1&air&> chi_det&> chi_mark&> pa_obl&&&&&&
+1780&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1780&1&air&> chi_det&> chi_nmod&> pa_conj&&&&&&
+1780&1&air&> chi_det&> chi_nummod&> chi_punct&> pa_appos&&&&&
+1780&1&air&> chi_det&> chi_punct&> pa_nmod&&&&&&
+1780&1&air&> chi_det&> pa_nmod:poss&&&&&&&
+1780&1&air&> chi_det&> pa_obl:agent&&&&&&&
+1780&1&air&> chi_det:predet&> chi_nmod:poss&> pa_nsubj:pass&&&&&&
+1780&1&air&> chi_nmod&> pa_obj&&&&&&&
+1780&1&air&> chi_nummod&> chi_punct&> pa_obl&&&&&&
+1780&1&air&> chi_punct&&&&&&&&
+1780&1&air&> chi_punct&> pa_list&&&&&&&
+1780&1&air&> chi_punct&> pa_obj&&&&&&&
+1780&1&air&> chi_punct&> pa_obl&&&&&&&
+1780&1&air&> chi_punct&> pa_parataxis&&&&&&&
+1780&1&air&> pa_obl:agent&&&&&&&&
+1785&368&air&> chi_amod&> pa_nmod&&&&&&&
+1785&209&air&> pa_nmod&&&&&&&&
+1785&155&air&> chi_amod&> pa_obl&&&&&&&
+1785&115&air&> chi_det&> pa_nmod&&&&&&&
+1785&106&air&> chi_amod&> pa_obj&&&&&&&
+1785&60&air&> chi_det&> pa_nsubj&&&&&&&
+1785&58&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1785&54&air&> chi_det&> pa_obj&&&&&&&
+1785&49&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1785&45&air&> chi_det&> pa_obl&&&&&&&
+1785&44&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1785&42&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1785&41&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1785&39&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1785&39&air&> chi_amod&> pa_nsubj&&&&&&&
+1785&39&air&> pa_obl&&&&&&&&
+1785&38&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1785&37&air&> chi_punct&> pa_compound&&&&&&&
+1785&36&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1785&33&air&> pa_obj&&&&&&&&
+1785&27&air&> pa_compound&&&&&&&&
+1785&24&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1785&23&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1785&20&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1785&16&air&> pa_nsubj&&&&&&&&
+1785&15&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1785&14&air&> chi_compound&> pa_nmod&&&&&&&
+1785&13&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1785&12&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1785&12&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1785&11&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1785&11&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1785&10&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1785&10&air&> chi_det&> chi_nummod&> pa_nmod&&&&&&
+1785&9&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1785&9&air&> chi_amod&> chi_compound&> pa_nmod&&&&&&
+1785&9&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1785&8&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1785&8&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1785&8&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1785&8&air&> chi_amod&> pa_obl:agent&&&&&&&
+1785&8&air&> chi_nmod&> pa_nmod&&&&&&&
+1785&8&air&> pa_obl:agent&&&&&&&&
+1785&7&air&> chi_acl&> pa_nmod&&&&&&&
+1785&7&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1785&6&air&> chi_acl:relcl&> chi_amod&> pa_obl&&&&&&
+1785&6&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1785&6&air&> chi_amod&> chi_compound&> pa_obl&&&&&&
+1785&6&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1785&6&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1785&6&air&> chi_amod&> pa_xcomp&&&&&&&
+1785&6&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1785&6&air&> pa_nsubj:pass&&&&&&&&
+1785&5&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1785&5&air&> chi_acl:relcl&> chi_amod&> pa_obj&&&&&&
+1785&5&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1785&5&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1785&5&air&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&&
+1785&5&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1785&5&air&> chi_amod&> chi_nmod&> pa_nsubj&&&&&&
+1785&5&air&> chi_cc&> pa_conj&&&&&&&
+1785&5&air&> chi_compound&> pa_nsubj:pass&&&&&&&
+1785&5&air&> chi_conj&> pa_nmod&&&&&&&
+1785&5&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1785&5&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1785&4&air&> chi_acl&> chi_amod&> chi_det&> pa_obl&&&&&
+1785&4&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1785&4&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1785&4&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1785&4&air&> chi_acl:relcl&> pa_nmod&&&&&&&
+1785&4&air&> chi_advmod&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1785&4&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1785&4&air&> chi_amod&> chi_nmod&> pa_obj&&&&&&
+1785&4&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1785&4&air&> chi_det&> pa_obl:agent&&&&&&&
+1785&3&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1785&3&air&> chi_acl&> chi_amod&> chi_det&> pa_obj&&&&&
+1785&3&air&> chi_acl&> chi_det&> pa_nsubj:outer&&&&&&
+1785&3&air&> chi_acl&> chi_det&> pa_nsubj:pass&&&&&&
+1785&3&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1785&3&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&
+1785&3&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1785&3&air&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&&
+1785&3&air&> chi_amod&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&&
+1785&3&air&> chi_amod&> chi_compound&> pa_nsubj&&&&&&
+1785&3&air&> chi_amod&> chi_conj&> chi_det&> pa_obj&&&&&
+1785&3&air&> chi_amod&> chi_conj&> pa_nsubj&&&&&&
+1785&3&air&> chi_amod&> chi_mark&> pa_obl&&&&&&
+1785&3&air&> chi_amod&> chi_nmod&> pa_obl&&&&&&
+1785&3&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1785&3&air&> chi_cc&> chi_det&> pa_conj&&&&&&
+1785&3&air&> chi_compound&> pa_obj&&&&&&&
+1785&3&air&> chi_conj&> pa_obl&&&&&&&
+1785&3&air&> chi_det&> chi_det:predet&> pa_obj&&&&&&
+1785&3&air&> chi_det&> chi_nmod&> chi_nummod&> pa_nmod&&&&&
+1785&2&air&> chi_acl&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&
+1785&2&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1785&2&air&> chi_acl&> chi_amod&> chi_nmod:poss&> pa_obl&&&&&
+1785&2&air&> chi_acl&> chi_amod&> chi_punct&> pa_nsubj&&&&&
+1785&2&air&> chi_acl&> chi_cc&> chi_punct&> pa_conj&&&&&
+1785&2&air&> chi_acl&> chi_det&> chi_nummod&> pa_nmod&&&&&
+1785&2&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1785&2&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1785&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&
+1785&2&air&> chi_acl:relcl&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&
+1785&2&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1785&2&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1785&2&air&> chi_amod&> chi_appos&> pa_nmod&&&&&&
+1785&2&air&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&> pa_conj&&
+1785&2&air&> chi_amod&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&
+1785&2&air&> chi_amod&> chi_compound&> pa_obj&&&&&&
+1785&2&air&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&> pa_acl:relcl&&
+1785&2&air&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1785&2&air&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&&
+1785&2&air&> chi_amod&> chi_conj&> chi_nmod&> pa_nmod&&&&&
+1785&2&air&> chi_amod&> chi_conj&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_amod&> chi_conj&> pa_obj&&&&&&
+1785&2&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_parataxis&&&
+1785&2&air&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&&&&&
+1785&2&air&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&> pa_acl:relcl&&&&
+1785&2&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&&
+1785&2&air&> chi_amod&> chi_det:predet&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_amod&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&
+1785&2&air&> chi_amod&> chi_nmod:poss&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_amod&> chi_punct&> pa_appos&&&&&&
+1785&2&air&> chi_amod&> chi_punct&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1785&2&air&> chi_appos&> chi_det&> pa_nmod&&&&&&
+1785&2&air&> chi_cc&> pa_nsubj&&&&&&&
+1785&2&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1785&2&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1785&2&air&> chi_conj&> chi_det&> pa_obl:agent&&&&&&
+1785&2&air&> chi_conj&> pa_obj&&&&&&&
+1785&2&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1785&2&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&
+1785&2&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_det&> chi_nummod&> pa_nsubj&&&&&&
+1785&2&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1785&2&air&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&&
+1785&2&air&> chi_nmod&> pa_obl&&&&&&&
+1785&2&air&> chi_nmod:poss&> pa_nsubj:pass&&&&&&&
+1785&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&
+1785&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_obl&&&&&
+1785&1&air&> chi_acl&> chi_advcl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&
+1785&1&air&> chi_acl&> chi_advcl&> chi_cop&> pa_csubj:pass&&&&&
+1785&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_aux&> chi_cc&> chi_cop&> chi_det&> chi_nsubj&> pa_conj
+1785&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_compound&> chi_det&> pa_nsubj&&&
+1785&1&air&> chi_acl&> chi_advmod&> chi_amod&> pa_nmod&&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_appos&> chi_det&> pa_nmod&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_cc&> chi_det&> chi_punct&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_conj&> pa_obj&&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_conj&> pa_obl&&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_cop&> chi_det&> chi_mark&> pa_advcl&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_det&> chi_det:predet&> pa_nmod&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_det&> pa_obl:agent&&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_nmod&> pa_nmod&&&&&
+1785&1&air&> chi_acl&> chi_amod&> chi_punct&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_acl&> chi_amod&> pa_nsubj&&&&&&
+1785&1&air&> chi_acl&> chi_amod&> pa_nsubj:pass&&&&&&
+1785&1&air&> chi_acl&> chi_amod&> pa_obj&&&&&&
+1785&1&air&> chi_acl&> chi_amod&> pa_obl&&&&&&
+1785&1&air&> chi_acl&> chi_cc&> chi_det&> chi_orphan&> chi_punct&> pa_conj&&&
+1785&1&air&> chi_acl&> chi_cc&> chi_det&> pa_conj&&&&&
+1785&1&air&> chi_acl&> chi_compound&> pa_obl&&&&&&
+1785&1&air&> chi_acl&> chi_conj&> chi_det&> pa_nmod&&&&&
+1785&1&air&> chi_acl&> chi_conj&> pa_nsubj&&&&&&
+1785&1&air&> chi_acl&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_acl&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&
+1785&1&air&> chi_acl&> chi_det&> chi_nmod&> pa_appos&&&&&
+1785&1&air&> chi_acl&> chi_det&> chi_nmod&> pa_obl&&&&&
+1785&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nmod&&&&&
+1785&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_acl&> chi_punct&> pa_obl&&&&&&
+1785&1&air&> chi_acl&> pa_obj&&&&&&&
+1785&1&air&> chi_acl&> pa_obl&&&&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_appos&> chi_det&> pa_nsubj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> chi_conj&> chi_punct&> pa_nsubj&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> pa_nmod&&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_cop&> chi_det&> chi_mark&> chi_punct&> pa_appos&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_cop&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_det:predet&> pa_obj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_conj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1785&1&air&> chi_acl:relcl&> chi_amod&> chi_nmod&> pa_conj&&&&&
+1785&1&air&> chi_acl:relcl&> chi_appos&> chi_det&> pa_obl&&&&&
+1785&1&air&> chi_acl:relcl&> chi_compound&> pa_nmod&&&&&&
+1785&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> pa_nmod&&&&&
+1785&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> pa_obj&&&&&
+1785&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1785&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_obj&&&&&
+1785&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1785&1&air&> chi_acl:relcl&> chi_det&> pa_nsubj:outer&&&&&&
+1785&1&air&> chi_acl:relcl&> pa_obl&&&&&&&
+1785&1&air&> chi_advcl&> chi_amod&> chi_aux&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&
+1785&1&air&> chi_advcl&> chi_amod&> chi_compound&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&&
+1785&1&air&> chi_advcl&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&&&&
+1785&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> pa_parataxis&&
+1785&1&air&> chi_advmod&> chi_amod&> chi_compound&> chi_conj&> chi_punct&> pa_parataxis&&&
+1785&1&air&> chi_advmod&> chi_amod&> chi_compound&> chi_cop&> chi_nsubj&> chi_punct&> pa_acl:relcl&&
+1785&1&air&> chi_advmod&> chi_amod&> chi_conj&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_ccomp&
+1785&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_det&> chi_mark&> chi_nmod&> chi_nsubj&> pa_ccomp&
+1785&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_punct&> pa_ccomp&
+1785&1&air&> chi_advmod&> chi_amod&> chi_cop&> chi_mark&> chi_nmod&> chi_nsubj&> chi_punct&> pa_advcl&
+1785&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_obj&&&&&
+1785&1&air&> chi_advmod&> chi_amod&> chi_det&> pa_obl&&&&&
+1785&1&air&> chi_advmod&> chi_amod&> chi_nmod&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_advmod&> chi_amod&> pa_nmod&&&&&&
+1785&1&air&> chi_advmod&> chi_amod&> pa_obl&&&&&&
+1785&1&air&> chi_advmod&> chi_conj&> chi_det&> chi_punct&> pa_obl&&&&
+1785&1&air&> chi_advmod&> chi_cop&> chi_det&> chi_nsubj&> pa_acl:relcl&&&&
+1785&1&air&> chi_advmod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1785&1&air&> chi_amod&> chi_appos&> chi_conj&> chi_nummod&> chi_parataxis&> chi_punct&> pa_appos&&
+1785&1&air&> chi_amod&> chi_appos&> chi_conj&> pa_obl&&&&&
+1785&1&air&> chi_amod&> chi_appos&> chi_det&> chi_punct&> pa_nsubj&&&&
+1785&1&air&> chi_amod&> chi_appos&> chi_nummod&> chi_punct&> pa_appos&&&&
+1785&1&air&> chi_amod&> chi_appos&> chi_punct&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_amod&> chi_appos&> pa_obj&&&&&&
+1785&1&air&> chi_amod&> chi_aux&> chi_cc&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&> pa_parataxis&
+1785&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_ccomp&&
+1785&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_mark&> pa_xcomp&&&&
+1785&1&air&> chi_amod&> chi_aux&> chi_cop&> chi_punct&> pa_parataxis&&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_compound&> pa_conj&&&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&> pa_conj&&
+1785&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_cop&> chi_obl&> chi_punct&> pa_conj&&
+1785&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_conj&&
+1785&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_obl&> pa_conj&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_orphan&> pa_conj&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> pa_conj&&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_nummod&> chi_parataxis&> chi_punct&> pa_obj&&&
+1785&1&air&> chi_amod&> chi_cc&> chi_nummod&> chi_parataxis&> pa_conj&&&&
+1785&1&air&> chi_amod&> chi_cc&> pa_nmod&&&&&&
+1785&1&air&> chi_amod&> chi_cc&> pa_obj&&&&&&
+1785&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> pa_nmod&&&&&
+1785&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> pa_obj&&&&&
+1785&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> pa_obl&&&&&
+1785&1&air&> chi_amod&> chi_cc:preconj&> chi_punct&> pa_conj&&&&&
+1785&1&air&> chi_amod&> chi_cc:preconj&> pa_obj&&&&&&
+1785&1&air&> chi_amod&> chi_compound&> chi_conj&> chi_punct&> pa_nsubj:pass&&&&
+1785&1&air&> chi_amod&> chi_compound&> chi_conj&> pa_nmod&&&&&
+1785&1&air&> chi_amod&> chi_compound&> chi_det&> pa_nsubj&&&&&
+1785&1&air&> chi_amod&> chi_compound&> chi_det&> pa_obj&&&&&
+1785&1&air&> chi_amod&> chi_compound&> chi_nmod&> pa_obj&&&&&
+1785&1&air&> chi_amod&> chi_compound&> chi_punct&> pa_conj&&&&&
+1785&1&air&> chi_amod&> chi_compound&> pa_nsubj:pass&&&&&&
+1785&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&
+1785&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_mark&> pa_xcomp&&&&
+1785&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> pa_ccomp&&&&
+1785&1&air&> chi_amod&> chi_conj&> chi_nmod&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_amod&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1785&1&air&> chi_amod&> chi_conj&> pa_obl:agent&&&&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_det&> chi_nsubj&> pa_acl:relcl&&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nmod&> pa_xcomp&&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_advcl&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> pa_ccomp&&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_nmod&> chi_nsubj&> chi_nummod&> pa_acl:relcl&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&> pa_acl:relcl&&&
+1785&1&air&> chi_amod&> chi_cop&> chi_nsubj&> pa_advcl&&&&&
+1785&1&air&> chi_amod&> chi_cop&> pa_acl:relcl&&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_conj&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_nmod&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_mark&> pa_obl&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1785&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1785&1&air&> chi_amod&> chi_det&> pa_conj&&&&&&
+1785&1&air&> chi_amod&> chi_mark&> pa_nmod&&&&&&
+1785&1&air&> chi_amod&> chi_nmod&> chi_punct&> pa_nmod&&&&&
+1785&1&air&> chi_amod&> chi_nmod&> chi_punct&> pa_obj&&&&&
+1785&1&air&> chi_amod&> chi_nmod&> pa_nsubj:pass&&&&&&
+1785&1&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1785&1&air&> chi_amod&> chi_nmod:poss&> pa_nsubj&&&&&&
+1785&1&air&> chi_amod&> chi_nmod:poss&> pa_obj&&&&&&
+1785&1&air&> chi_amod&> chi_punct&&&&&&&
+1785&1&air&> chi_amod&> chi_punct&> pa_nmod&&&&&&
+1785&1&air&> chi_amod&> chi_punct&> pa_nsubj&&&&&&
+1785&1&air&> chi_amod&> pa_nsubj:outer&&&&&&&
+1785&1&air&> chi_appos&> chi_compound&> chi_conj&> pa_nsubj&&&&&
+1785&1&air&> chi_appos&> pa_nmod&&&&&&&
+1785&1&air&> chi_cc&> chi_compound&> chi_punct&> pa_nsubj&&&&&
+1785&1&air&> chi_cc&> chi_conj&> chi_punct&> pa_conj&&&&&
+1785&1&air&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&&
+1785&1&air&> chi_cc&> chi_nmod&> pa_conj&&&&&&
+1785&1&air&> chi_cc:preconj&> chi_nmod&> pa_nmod&&&&&&
+1785&1&air&> chi_compound&> chi_conj&> chi_nmod&> pa_nsubj&&&&&
+1785&1&air&> chi_compound&> chi_conj&> pa_compound&&&&&&
+1785&1&air&> chi_compound&> chi_det&> pa_obj&&&&&&
+1785&1&air&> chi_compound&> chi_det&> pa_obl&&&&&&
+1785&1&air&> chi_compound&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_compound&> chi_nmod&> pa_obj&&&&&&
+1785&1&air&> chi_compound&> pa_nsubj&&&&&&&
+1785&1&air&> chi_compound&> pa_obl&&&&&&&
+1785&1&air&> chi_compound&> pa_obl:agent&&&&&&&
+1785&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_conj&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1785&1&air&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&&
+1785&1&air&> chi_conj&> chi_det&> pa_obj&&&&&&
+1785&1&air&> chi_conj&> chi_punct&> pa_nsubj&&&&&&
+1785&1&air&> chi_conj&> chi_punct&> pa_obl&&&&&&
+1785&1&air&> chi_conj&> pa_nsubj:pass&&&&&&&
+1785&1&air&> chi_det&> chi_discourse&> chi_nmod&> chi_punct&> pa_parataxis&&&&
+1785&1&air&> chi_det&> chi_nmod&> pa_obl:agent&&&&&&
+1785&1&air&> chi_det&> chi_nmod:unmarked&> pa_nsubj:pass&&&&&&
+1785&1&air&> chi_det&> chi_nummod&> pa_nsubj:pass&&&&&&
+1785&1&air&> chi_det&> chi_nummod&> pa_obj&&&&&&
+1785&1&air&> chi_det&> chi_punct&> pa_conj&&&&&&
+1785&1&air&> chi_det&> chi_punct&> pa_nmod&&&&&&
+1785&1&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1785&1&air&> chi_det&> pa_compound&&&&&&&
+1785&1&air&> chi_det&> pa_nmod:poss&&&&&&&
+1785&1&air&> chi_nmod&> pa_advcl&&&&&&&
+1785&1&air&> chi_nmod&> pa_obj&&&&&&&
+1785&1&air&> chi_nmod:poss&> pa_nmod&&&&&&&
+1785&1&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1785&1&air&> chi_punct&> pa_appos&&&&&&&
+1785&1&air&> chi_punct&> pa_nsubj&&&&&&&
+1785&1&air&> pa_obl:unmarked&&&&&&&&
+1790&235&air&> chi_amod&> pa_nmod&&&&&&&
+1790&93&air&> pa_nmod&&&&&&&&
+1790&54&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1790&53&air&> chi_amod&> pa_obl&&&&&&&
+1790&52&air&> chi_det&> pa_nmod&&&&&&&
+1790&44&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1790&41&air&> chi_amod&> pa_obj&&&&&&&
+1790&39&air&> chi_det&> pa_obl&&&&&&&
+1790&36&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1790&31&air&> pa_compound&&&&&&&&
+1790&28&air&> chi_det&> pa_nsubj&&&&&&&
+1790&27&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1790&26&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1790&25&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1790&19&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1790&16&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1790&16&air&> chi_amod&> pa_nsubj&&&&&&&
+1790&15&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1790&15&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1790&14&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1790&14&air&> chi_punct&> pa_compound&&&&&&&
+1790&14&air&> pa_obl&&&&&&&&
+1790&10&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1790&10&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1790&10&air&> chi_compound&> pa_nmod&&&&&&&
+1790&10&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1790&9&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1790&8&air&> chi_conj&> pa_nmod&&&&&&&
+1790&8&air&> chi_det&> pa_obj&&&&&&&
+1790&7&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1790&7&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1790&7&air&> chi_amod&> chi_compound&> pa_obl&&&&&&
+1790&7&air&> chi_amod&> chi_conj&> pa_obj&&&&&&
+1790&7&air&> chi_cc&> pa_conj&&&&&&&
+1790&6&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1790&6&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1790&6&air&> pa_nsubj&&&&&&&&
+1790&5&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1790&5&air&> chi_acl&> chi_amod&> chi_det&> pa_obl&&&&&
+1790&5&air&> chi_acl&> pa_nmod&&&&&&&
+1790&5&air&> chi_amod&> chi_compound&> pa_nmod&&&&&&
+1790&5&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1790&5&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1790&5&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1790&5&air&> pa_obj&&&&&&&&
+1790&4&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1790&4&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1790&4&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1790&4&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1790&4&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1790&4&air&> chi_amod&> chi_compound&> pa_nsubj:pass&&&&&&
+1790&4&air&> chi_amod&> chi_compound&> pa_obj&&&&&&
+1790&4&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1790&4&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1790&4&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1790&4&air&> pa_nsubj:pass&&&&&&&&
+1790&3&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1790&3&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1790&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1790&3&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1790&3&air&> chi_acl:relcl&> chi_det&> pa_nsubj:pass&&&&&&
+1790&3&air&> chi_amod&> chi_cc&> chi_compound&> chi_punct&> pa_conj&&&&
+1790&3&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1790&3&air&> chi_amod&> chi_cc&> pa_nmod&&&&&&
+1790&3&air&> chi_amod&> chi_compound&> chi_det&> pa_nmod&&&&&
+1790&3&air&> chi_amod&> chi_compound&> chi_det&> pa_nsubj&&&&&
+1790&3&air&> chi_amod&> chi_compound&> chi_det&> pa_obl&&&&&
+1790&3&air&> chi_amod&> chi_compound&> pa_nsubj&&&&&&
+1790&3&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&
+1790&3&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1790&3&air&> chi_amod&> chi_punct&> pa_nmod&&&&&&
+1790&3&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1790&3&air&> chi_compound&> pa_obl&&&&&&&
+1790&3&air&> chi_conj&> pa_obl&&&&&&&
+1790&3&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1790&3&air&> chi_det&> chi_nummod&> pa_nmod&&&&&&
+1790&3&air&> chi_det&> chi_punct&> pa_nsubj&&&&&&
+1790&3&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1790&2&air&> chi_acl&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1790&2&air&> chi_acl&> chi_amod&> chi_compound&> chi_det&> pa_obj&&&&
+1790&2&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&
+1790&2&air&> chi_acl&> chi_amod&> pa_obl&&&&&&
+1790&2&air&> chi_acl&> chi_det&> pa_nsubj:pass&&&&&&
+1790&2&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1790&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&
+1790&2&air&> chi_acl:relcl&> chi_compound&> chi_det&> pa_nmod&&&&&
+1790&2&air&> chi_amod&> chi_appos&> chi_det&> chi_punct&&&&&
+1790&2&air&> chi_amod&> chi_cc&> chi_compound&> chi_det&> pa_conj&&&&
+1790&2&air&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&&
+1790&2&air&> chi_amod&> chi_compound&> chi_conj&> chi_nmod&> pa_nmod&&&&
+1790&2&air&> chi_amod&> chi_conj&> chi_det&> pa_obl&&&&&
+1790&2&air&> chi_amod&> chi_conj&> chi_nmod&> pa_nmod&&&&&
+1790&2&air&> chi_amod&> chi_conj&> pa_nsubj:pass&&&&&&
+1790&2&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1790&2&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_ccomp&&&
+1790&2&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1790&2&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1790&2&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1790&2&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1790&2&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1790&2&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1790&2&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1790&2&air&> chi_compound&> chi_det&> pa_obl&&&&&&
+1790&2&air&> chi_compound&> pa_nsubj&&&&&&&
+1790&2&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1790&2&air&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&&
+1790&2&air&> chi_conj&> pa_nsubj&&&&&&&
+1790&2&air&> chi_det&> chi_nummod&> pa_obl&&&&&&
+1790&2&air&> chi_nmod&> pa_obl&&&&&&&
+1790&2&air&> chi_nmod:unmarked&> pa_obl&&&&&&&
+1790&2&air&> chi_punct&> pa_obl&&&&&&&
+1790&2&air&> pa_obl:agent&&&&&&&&
+1790&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nsubj&&&&
+1790&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&
+1790&1&air&> chi_acl&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&
+1790&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_obj&&&&&
+1790&1&air&> chi_acl&> chi_advcl&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&&&
+1790&1&air&> chi_acl&> chi_advmod&> chi_amod&> chi_cc&> pa_conj&&&&
+1790&1&air&> chi_acl&> chi_advmod&> chi_det&> chi_nmod&> pa_nsubj&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_cop&> chi_det&> chi_nsubj&> pa_obl&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_nmod&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_det&> pa_conj&&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_det&> pa_obj&&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_nmod&> chi_punct&> pa_obl&&&&
+1790&1&air&> chi_acl&> chi_amod&> chi_nmod&> pa_nmod&&&&&
+1790&1&air&> chi_acl&> chi_cc&> chi_det&> pa_conj&&&&&
+1790&1&air&> chi_acl&> chi_cc&> pa_conj&&&&&&
+1790&1&air&> chi_acl&> chi_compound&> chi_conj&> pa_nmod&&&&&
+1790&1&air&> chi_acl&> chi_compound&> chi_det&> chi_punct&> pa_nsubj&&&&
+1790&1&air&> chi_acl&> chi_compound&> chi_det&> pa_nmod&&&&&
+1790&1&air&> chi_acl&> chi_compound&> chi_det&> pa_obl&&&&&
+1790&1&air&> chi_acl&> chi_compound&> pa_nmod&&&&&&
+1790&1&air&> chi_acl&> chi_conj&> chi_det&> chi_punct&&&&&
+1790&1&air&> chi_acl&> chi_det&&&&&&&
+1790&1&air&> chi_acl&> chi_det&> chi_discourse&> pa_appos&&&&&
+1790&1&air&> chi_acl&> chi_det&> chi_punct&&&&&&
+1790&1&air&> chi_acl&> chi_det&> chi_punct&> pa_appos&&&&&
+1790&1&air&> chi_acl&> chi_det&> chi_punct&> pa_conj&&&&&
+1790&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1790&1&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1790&1&air&> chi_acl&> chi_punct&> pa_nsubj:pass&&&&&&
+1790&1&air&> chi_acl&> pa_obl&&&&&&&
+1790&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_appos&> chi_compound&> chi_conj&> chi_punct&> pa_conj&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_appos&> pa_obj&&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_nsubj:pass&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> chi_conj&> pa_obl&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> pa_nmod&&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_conj&> chi_cop&> chi_det&> chi_nsubj&> chi_punct&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_cop&> chi_det&> chi_nsubj&> chi_punct&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_nmod&> pa_nmod&&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> chi_punct&> pa_nsubj:pass&&&&&
+1790&1&air&> chi_acl:relcl&> chi_amod&> pa_obj&&&&&&
+1790&1&air&> chi_acl:relcl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1790&1&air&> chi_acl:relcl&> chi_cc&> chi_det&> pa_conj&&&&&
+1790&1&air&> chi_acl:relcl&> chi_compound&> chi_det&> chi_punct&> pa_appos&&&&
+1790&1&air&> chi_acl:relcl&> chi_compound&> chi_det&> chi_punct&> pa_obl&&&&
+1790&1&air&> chi_acl:relcl&> chi_conj&> chi_det&> pa_obj&&&&&
+1790&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1790&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1790&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_obl&&&&&
+1790&1&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1790&1&air&> chi_acl:relcl&> chi_det&> pa_obl:agent&&&&&&
+1790&1&air&> chi_advcl&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_conj&&
+1790&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_cop&> chi_mark&> chi_nsubj&> chi_punct&> pa_conj&
+1790&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&
+1790&1&air&> chi_advmod&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&
+1790&1&air&> chi_advmod&> chi_amod&> chi_compound&> pa_conj&&&&&
+1790&1&air&> chi_advmod&> chi_amod&> chi_compound&> pa_nmod&&&&&
+1790&1&air&> chi_advmod&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1790&1&air&> chi_advmod&> chi_amod&> chi_discourse&> pa_conj&&&&&
+1790&1&air&> chi_advmod&> chi_amod&> pa_nmod&&&&&&
+1790&1&air&> chi_advmod&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&&
+1790&1&air&> chi_advmod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1790&1&air&> chi_advmod&> chi_det&> chi_nmod&> chi_punct&> pa_parataxis&&&&
+1790&1&air&> chi_amod&> chi_appos&> chi_cc&> chi_nummod&> chi_punct&> pa_conj&&&
+1790&1&air&> chi_amod&> chi_appos&> chi_conj&> chi_nmod&> pa_nmod&&&&
+1790&1&air&> chi_amod&> chi_appos&> chi_det&> chi_list&> chi_punct&&&&
+1790&1&air&> chi_amod&> chi_appos&> chi_det&> chi_nmod&> chi_nmod:unmarked&> pa_compound&&&
+1790&1&air&> chi_amod&> chi_appos&> chi_det&> pa_nmod&&&&&
+1790&1&air&> chi_amod&> chi_appos&> chi_det&> pa_obj&&&&&
+1790&1&air&> chi_amod&> chi_aux&> chi_conj&> chi_cop&> chi_dep&> chi_nsubj&> chi_punct&> pa_parataxis&
+1790&1&air&> chi_amod&> chi_cc&> chi_compound&> pa_conj&&&&&
+1790&1&air&> chi_amod&> chi_cc&> chi_conj&> chi_cop&> chi_det&> chi_mark&> chi_punct&> pa_acl&
+1790&1&air&> chi_amod&> chi_cc&> chi_cop&> chi_nsubj&> chi_nummod&> pa_conj&&&
+1790&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&
+1790&1&air&> chi_amod&> chi_cc&> chi_nummod&> chi_punct&> pa_conj&&&&
+1790&1&air&> chi_amod&> chi_cc&> chi_nummod&> pa_conj&&&&&
+1790&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> chi_det&> chi_nmod&> pa_nsubj&&&
+1790&1&air&> chi_amod&> chi_compound&> chi_conj&> chi_punct&> pa_nsubj&&&&
+1790&1&air&> chi_amod&> chi_compound&> chi_conj&> pa_obl&&&&&
+1790&1&air&> chi_amod&> chi_compound&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&&&
+1790&1&air&> chi_amod&> chi_compound&> chi_det&> pa_obj&&&&&
+1790&1&air&> chi_amod&> chi_compound&> chi_punct&> pa_nsubj&&&&&
+1790&1&air&> chi_amod&> chi_compound&> pa_appos&&&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> chi_punct&> pa_parataxis&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_det&> chi_list&> chi_nummod&> chi_punct&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_det&> chi_nmod&> pa_nmod&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_det&> pa_nmod&&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_det&> pa_nsubj&&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_nmod&> pa_obl&&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_nmod:poss&> pa_obj&&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_nummod&> pa_nsubj:pass&&&&&
+1790&1&air&> chi_amod&> chi_conj&> chi_punct&&&&&&
+1790&1&air&> chi_amod&> chi_conj&> pa_nsubj&&&&&&
+1790&1&air&> chi_amod&> chi_conj&> pa_obl:agent&&&&&&
+1790&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_nsubj&> chi_obl&> chi_punct&> pa_conj&&
+1790&1&air&> chi_amod&> chi_cop&> chi_mark&> chi_punct&> pa_advcl&&&&
+1790&1&air&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&&&&&
+1790&1&air&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&> pa_parataxis&&&&
+1790&1&air&> chi_amod&> chi_cop&> pa_obl&&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_obj&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_obl&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_mark&> pa_obl&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_nummod&> pa_nmod&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_nmod:unmarked&> pa_nmod&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_nummod&> pa_nmod&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_nummod&> pa_nsubj&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_parataxis&> chi_punct&> pa_nsubj:pass&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1790&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1790&1&air&> chi_amod&> chi_det&> pa_appos&&&&&&
+1790&1&air&> chi_amod&> chi_det&> pa_compound&&&&&&
+1790&1&air&> chi_amod&> chi_det&> pa_conj&&&&&&
+1790&1&air&> chi_amod&> chi_nmod&> pa_obj&&&&&&
+1790&1&air&> chi_amod&> chi_nmod&> pa_obl&&&&&&
+1790&1&air&> chi_amod&> chi_nmod:poss&> pa_obl&&&&&&
+1790&1&air&> chi_amod&> chi_nummod&> chi_punct&> pa_appos&&&&&
+1790&1&air&> chi_amod&> chi_nummod&> pa_nsubj&&&&&&
+1790&1&air&> chi_amod&> chi_punct&> pa_advcl&&&&&&
+1790&1&air&> chi_amod&> chi_punct&> pa_appos&&&&&&
+1790&1&air&> chi_amod&> pa_appos&&&&&&&
+1790&1&air&> chi_amod&> pa_compound&&&&&&&
+1790&1&air&> chi_appos&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1790&1&air&> chi_appos&> chi_det&> chi_punct&> pa_parataxis&&&&&
+1790&1&air&> chi_appos&> chi_det&> pa_nmod&&&&&&
+1790&1&air&> chi_appos&> pa_obl&&&&&&&
+1790&1&air&> chi_cc&> chi_nmod&> chi_punct&> pa_conj&&&&&
+1790&1&air&> chi_cc&> chi_nmod&> pa_conj&&&&&&
+1790&1&air&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1790&1&air&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_obl&&&&&
+1790&1&air&> chi_compound&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1790&1&air&> chi_compound&> chi_conj&> pa_obj&&&&&&
+1790&1&air&> chi_compound&> chi_det&> chi_nmod:unmarked&> pa_nsubj:pass&&&&&
+1790&1&air&> chi_compound&> chi_det&> chi_punct&> pa_obl&&&&&
+1790&1&air&> chi_compound&> chi_det&> pa_obj&&&&&&
+1790&1&air&> chi_compound&> chi_det&> pa_obl:agent&&&&&&
+1790&1&air&> chi_compound&> chi_punct&> pa_appos&&&&&&
+1790&1&air&> chi_compound&> chi_punct&> pa_conj&&&&&&
+1790&1&air&> chi_compound&> chi_punct&> pa_nmod&&&&&&
+1790&1&air&> chi_compound&> pa_compound&&&&&&&
+1790&1&air&> chi_compound&> pa_obj&&&&&&&
+1790&1&air&> chi_compound&> pa_xcomp&&&&&&&
+1790&1&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1790&1&air&> chi_conj&> chi_det&> pa_obl:agent&&&&&&
+1790&1&air&> chi_conj&> chi_nmod&> pa_nmod&&&&&&
+1790&1&air&> chi_conj&> chi_punct&> pa_nmod&&&&&&
+1790&1&air&> chi_conj&> pa_obj&&&&&&&
+1790&1&air&> chi_det&> chi_det:predet&> chi_nmod&> pa_nsubj&&&&&
+1790&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_appos&&&&&
+1790&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&&&
+1790&1&air&> chi_det&> chi_nummod&> pa_nsubj:pass&&&&&&
+1790&1&air&> chi_det&> pa_appos&&&&&&&
+1790&1&air&> chi_det&> pa_compound&&&&&&&
+1790&1&air&> chi_det&> pa_dislocated&&&&&&&
+1790&1&air&> chi_det&> pa_obl:agent&&&&&&&
+1790&1&air&> chi_mark&> pa_obl&&&&&&&
+1790&1&air&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&&
+1790&1&air&> chi_nmod&> pa_compound&&&&&&&
+1790&1&air&> chi_nmod&> pa_nmod&&&&&&&
+1790&1&air&> chi_nmod&> pa_nsubj&&&&&&&
+1790&1&air&> chi_nmod:poss&> pa_nmod&&&&&&&
+1790&1&air&> chi_nmod:unmarked&> pa_nmod&&&&&&&
+1790&1&air&> chi_punct&> pa_appos&&&&&&&
+1795&25&air&> chi_det&> pa_obl&&&&&&&
+1795&24&air&> chi_amod&> pa_nmod&&&&&&&
+1795&21&air&> pa_nmod&&&&&&&&
+1795&18&air&> pa_compound&&&&&&&&
+1795&16&air&> chi_det&> pa_nsubj&&&&&&&
+1795&15&air&> pa_obl&&&&&&&&
+1795&13&air&> chi_amod&> pa_obl&&&&&&&
+1795&13&air&> chi_det&> pa_nmod&&&&&&&
+1795&11&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1795&7&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1795&6&air&> chi_cc&> pa_conj&&&&&&&
+1795&5&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1795&4&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1795&4&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1795&4&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1795&4&air&> chi_amod&> pa_obj&&&&&&&
+1795&3&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1795&3&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1795&3&air&> chi_amod&> pa_nsubj&&&&&&&
+1795&3&air&> chi_conj&> pa_obl&&&&&&&
+1795&3&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1795&3&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1795&3&air&> chi_det&> pa_obj&&&&&&&
+1795&3&air&> chi_punct&> pa_compound&&&&&&&
+1795&2&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1795&2&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1795&2&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1795&2&air&> chi_amod&> chi_cc:preconj&> chi_conj&> pa_nsubj&&&&&
+1795&2&air&> chi_amod&> chi_compound&> pa_nmod&&&&&&
+1795&2&air&> chi_amod&> chi_conj&> pa_nsubj&&&&&&
+1795&2&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1795&2&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1795&2&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1795&2&air&> chi_amod&> pa_obl:agent&&&&&&&
+1795&2&air&> chi_conj&> pa_nmod&&&&&&&
+1795&2&air&> chi_det&> chi_punct&> pa_nmod&&&&&&
+1795&2&air&> chi_nmod&> pa_nmod&&&&&&&
+1795&2&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1795&2&air&> pa_nsubj&&&&&&&&
+1795&2&air&> pa_obj&&&&&&&&
+1795&1&air&> chi_acl&> chi_acl:relcl&> chi_advmod&> chi_det&> pa_obj&&&&
+1795&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1795&1&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1795&1&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1795&1&air&> chi_acl&> pa_nmod&&&&&&&
+1795&1&air&> chi_acl&> pa_nsubj&&&&&&&
+1795&1&air&> chi_acl:relcl&> chi_amod&> chi_punct&> pa_obl&&&&&
+1795&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1795&1&air&> chi_acl:relcl&> chi_det&> pa_nsubj:pass&&&&&&
+1795&1&air&> chi_acl:relcl&> pa_obl&&&&&&&
+1795&1&air&> chi_advcl&> chi_amod&> chi_cop&> chi_nsubj&> chi_punct&&&&
+1795&1&air&> chi_advmod&> chi_cop&> chi_det&> chi_nsubj&> chi_punct&&&&
+1795&1&air&> chi_advmod&> pa_xcomp&&&&&&&
+1795&1&air&> chi_amod&> chi_cc&> chi_det&> pa_conj&&&&&
+1795&1&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1795&1&air&> chi_amod&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_nmod&&&&
+1795&1&air&> chi_amod&> chi_compound&> pa_obj&&&&&&
+1795&1&air&> chi_amod&> chi_conj&> pa_compound&&&&&&
+1795&1&air&> chi_amod&> chi_conj&> pa_obl:agent&&&&&&
+1795&1&air&> chi_amod&> chi_cop&> chi_det&> chi_mark&> chi_nsubj&> pa_advcl&&&
+1795&1&air&> chi_amod&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&
+1795&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1795&1&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1795&1&air&> chi_amod&> chi_discourse&> chi_nmod&> pa_obj&&&&&
+1795&1&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1795&1&air&> chi_amod&> chi_punct&> pa_appos&&&&&&
+1795&1&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1795&1&air&> chi_appos&> pa_obl&&&&&&&
+1795&1&air&> chi_cc&> chi_cop&> chi_nmod&> chi_nsubj&> chi_punct&> pa_conj&&&
+1795&1&air&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1795&1&air&> chi_cc:preconj&> chi_conj&> chi_punct&> pa_obl&&&&&
+1795&1&air&> chi_cc:preconj&> chi_conj&> pa_obl&&&&&&
+1795&1&air&> chi_compound&> chi_det&> chi_nmod&> pa_obl&&&&&
+1795&1&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1795&1&air&> chi_compound&> chi_det&> pa_nsubj:pass&&&&&&
+1795&1&air&> chi_compound&> pa_nmod&&&&&&&
+1795&1&air&> chi_compound&> pa_obj&&&&&&&
+1795&1&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1795&1&air&> chi_conj&> chi_det&> pa_nsubj:pass&&&&&&
+1795&1&air&> chi_conj&> chi_nmod&> pa_obl&&&&&&
+1795&1&air&> chi_conj&> chi_punct&> pa_nmod&&&&&&
+1795&1&air&> chi_conj&> chi_punct&> pa_obl:agent&&&&&&
+1795&1&air&> chi_conj&> pa_nsubj:pass&&&&&&&
+1795&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&&
+1795&1&air&> chi_det&> chi_nummod&> pa_nmod&&&&&&
+1795&1&air&> chi_det&> chi_parataxis&> chi_punct&> pa_obl&&&&&
+1795&1&air&> chi_det&> chi_punct&> pa_parataxis&&&&&&
+1795&1&air&> chi_det&> pa_obl:agent&&&&&&&
+1795&1&air&> chi_nmod&> chi_nmod:poss&> pa_obj&&&&&&
+1795&1&air&> chi_nmod:poss&> pa_nsubj:pass&&&&&&&
+1795&1&air&> chi_nummod&> pa_nmod&&&&&&&
+1795&1&air&> chi_punct&> pa_nmod&&&&&&&
+1800&80&air&> pa_nmod&&&&&&&&
+1800&72&air&> chi_det&> pa_obl&&&&&&&
+1800&48&air&> chi_det&> pa_nmod&&&&&&&
+1800&32&air&> chi_amod&> pa_nmod&&&&&&&
+1800&22&air&> pa_obl&&&&&&&&
+1800&21&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1800&18&air&> chi_amod&> pa_obl&&&&&&&
+1800&17&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1800&17&air&> pa_compound&&&&&&&&
+1800&15&air&> chi_punct&> pa_compound&&&&&&&
+1800&12&air&> chi_det&> pa_nsubj&&&&&&&
+1800&11&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1800&8&air&> chi_cc&> pa_conj&&&&&&&
+1800&8&air&> chi_nmod&> pa_nmod&&&&&&&
+1800&7&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1800&7&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1800&5&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1800&5&air&> pa_nsubj:pass&&&&&&&&
+1800&4&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1800&4&air&> chi_acl:relcl&> pa_nmod&&&&&&&
+1800&4&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1800&4&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1800&4&air&> chi_amod&> pa_obj&&&&&&&
+1800&4&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1800&4&air&> pa_nsubj&&&&&&&&
+1800&3&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1800&3&air&> chi_acl&> pa_nmod&&&&&&&
+1800&3&air&> chi_amod&> chi_conj&> chi_punct&> pa_obl&&&&&
+1800&3&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1800&3&air&> chi_amod&> pa_nsubj&&&&&&&
+1800&3&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1800&3&air&> chi_amod&> pa_obl:agent&&&&&&&
+1800&3&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1800&3&air&> chi_conj&> pa_nmod&&&&&&&
+1800&3&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1800&3&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1800&3&air&> chi_det&> pa_obj&&&&&&&
+1800&3&air&> pa_obj&&&&&&&&
+1800&2&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1800&2&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1800&2&air&> chi_acl:relcl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1800&2&air&> chi_advcl&> chi_advmod&> chi_amod&> chi_cc&> chi_conj&> chi_cop&> chi_nsubj&> pa_conj&
+1800&2&air&> chi_advmod&> chi_amod&> chi_det&> pa_obl&&&&&
+1800&2&air&> chi_advmod&> pa_nmod&&&&&&&
+1800&2&air&> chi_amod&> chi_cc&> chi_nummod&> chi_punct&> pa_conj&&&&
+1800&2&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1800&2&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1800&2&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1800&2&air&> chi_amod&> chi_det&> pa_obl:agent&&&&&&
+1800&2&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1800&2&air&> chi_cc&> chi_det&> pa_conj&&&&&&
+1800&2&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1800&2&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1800&2&air&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&&
+1800&2&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1800&2&air&> chi_det&> pa_obl:agent&&&&&&&
+1800&2&air&> chi_nmod:poss&> pa_nmod&&&&&&&
+1800&2&air&> chi_punct&> pa_obl&&&&&&&
+1800&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&
+1800&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1800&1&air&> chi_acl&> chi_amod&> pa_obl:agent&&&&&&
+1800&1&air&> chi_acl&> chi_cc&> chi_punct&> pa_conj&&&&&
+1800&1&air&> chi_acl&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1800&1&air&> chi_acl&> chi_det&> chi_nmod&> pa_nsubj:outer&&&&&
+1800&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1800&1&air&> chi_acl&> chi_det&> chi_punct&> pa_obl:agent&&&&&
+1800&1&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1800&1&air&> chi_acl&> chi_det&> pa_obl&&&&&&
+1800&1&air&> chi_acl&> chi_det&> pa_obl:agent&&&&&&
+1800&1&air&> chi_acl&> pa_obl&&&&&&&
+1800&1&air&> chi_acl:relcl&> chi_advmod&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_obl:agent&&
+1800&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1800&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obj&&&&&
+1800&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1800&1&air&> chi_acl:relcl&> chi_amod&> pa_advcl&&&&&&
+1800&1&air&> chi_acl:relcl&> chi_amod&> pa_obl&&&&&&
+1800&1&air&> chi_acl:relcl&> chi_conj&> chi_cop&> chi_det&> chi_mark&> pa_xcomp&&&
+1800&1&air&> chi_acl:relcl&> chi_dep&> chi_det&> pa_dislocated&&&&&
+1800&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1800&1&air&> chi_acl:relcl&> chi_det&> pa_nsubj&&&&&&
+1800&1&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1800&1&air&> chi_acl:relcl&> chi_det&> pa_obl:agent&&&&&&
+1800&1&air&> chi_acl:relcl&> chi_punct&> pa_dep&&&&&&
+1800&1&air&> chi_amod&> chi_appos&> chi_compound&> chi_det&> chi_nummod&> pa_nmod&&&
+1800&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&
+1800&1&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1800&1&air&> chi_amod&> chi_compound&> chi_punct&> pa_obl&&&&&
+1800&1&air&> chi_amod&> chi_conj&> chi_punct&> pa_nmod&&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_mark&> chi_punct&> pa_obl&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_mark&> pa_obl&&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl:agent&&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1800&1&air&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&&
+1800&1&air&> chi_amod&> chi_nmod:poss&> pa_nmod&&&&&&
+1800&1&air&> chi_amod&> chi_nummod&> pa_conj&&&&&&
+1800&1&air&> chi_amod&> chi_punct&> pa_conj&&&&&&
+1800&1&air&> chi_amod&> chi_punct&> pa_nmod&&&&&&
+1800&1&air&> chi_amod&> chi_punct&> pa_nsubj&&&&&&
+1800&1&air&> chi_amod&> pa_compound&&&&&&&
+1800&1&air&> chi_appos&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1800&1&air&> chi_appos&> chi_punct&&&&&&&
+1800&1&air&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&&
+1800&1&air&> chi_cc:preconj&> chi_conj&> chi_det&> pa_obl&&&&&
+1800&1&air&> chi_cc:preconj&> chi_conj&> pa_obj&&&&&&
+1800&1&air&> chi_compound&> chi_dep&> chi_list&> chi_parataxis&> pa_appos&&&&
+1800&1&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1800&1&air&> chi_compound&> chi_det&> pa_obl:agent&&&&&&
+1800&1&air&> chi_conj&> chi_det&> chi_nmod&> chi_punct&> pa_appos&&&&
+1800&1&air&> chi_conj&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1800&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1800&1&air&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1800&1&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1800&1&air&> chi_conj&> chi_det&> pa_obl:agent&&&&&&
+1800&1&air&> chi_dep&> chi_det&> pa_nmod&&&&&&
+1800&1&air&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&&
+1800&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nmod&&&&&
+1800&1&air&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj:pass&&&&&
+1800&1&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1800&1&air&> chi_det&> chi_nmod&> pa_obl:agent&&&&&&
+1800&1&air&> chi_det&> chi_nmod:unmarked&> pa_nmod&&&&&&
+1800&1&air&> chi_det&> chi_nummod&> pa_nmod&&&&&&
+1800&1&air&> chi_det&> pa_nmod:poss&&&&&&&
+1800&1&air&> chi_det:predet&> chi_nmod:poss&> pa_obj&&&&&&
+1800&1&air&> chi_nmod:poss&> pa_obl&&&&&&&
+1800&1&air&> chi_punct&> pa_nmod&&&&&&&
+1805&43&air&> pa_nmod&&&&&&&&
+1805&39&air&> chi_amod&> pa_nmod&&&&&&&
+1805&29&air&> pa_obl&&&&&&&&
+1805&26&air&> chi_det&> pa_nmod&&&&&&&
+1805&22&air&> chi_det&> pa_obl&&&&&&&
+1805&21&air&> pa_compound&&&&&&&&
+1805&11&air&> chi_amod&> pa_obl&&&&&&&
+1805&9&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1805&7&air&> chi_punct&> pa_compound&&&&&&&
+1805&6&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1805&6&air&> chi_det&> pa_obj&&&&&&&
+1805&5&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1805&5&air&> chi_amod&> pa_nsubj&&&&&&&
+1805&5&air&> chi_amod&> pa_obj&&&&&&&
+1805&5&air&> chi_det&> pa_nsubj&&&&&&&
+1805&4&air&> chi_acl:relcl&> chi_det&> pa_obj&&&&&&
+1805&4&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1805&4&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1805&3&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1805&3&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1805&3&air&> chi_conj&> pa_nmod&&&&&&&
+1805&3&air&> chi_conj&> pa_obl&&&&&&&
+1805&3&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1805&2&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj:pass&&&&
+1805&2&air&> chi_acl&> pa_obl&&&&&&&
+1805&2&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1805&2&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1805&2&air&> chi_amod&> pa_compound&&&&&&&
+1805&2&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1805&2&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1805&2&air&> pa_obl:unmarked&&&&&&&&
+1805&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_obl&&&&&
+1805&1&air&> chi_acl&> chi_amod&> chi_appos&> chi_discourse&> chi_punct&&&&
+1805&1&air&> chi_acl&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1805&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nsubj&&&&
+1805&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_obl&&&&
+1805&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1805&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj&&&&&
+1805&1&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1805&1&air&> chi_acl&> chi_compound&> chi_nmod&> chi_punct&> pa_appos&&&&
+1805&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1805&1&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1805&1&air&> chi_acl&> pa_nmod&&&&&&&
+1805&1&air&> chi_acl:relcl&> chi_amod&> chi_compound&> pa_nmod&&&&&
+1805&1&air&> chi_acl:relcl&> chi_amod&> pa_nmod&&&&&&
+1805&1&air&> chi_acl:relcl&> chi_amod&> pa_obj&&&&&&
+1805&1&air&> chi_acl:relcl&> chi_det&> chi_mark&> pa_nsubj&&&&&
+1805&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1805&1&air&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&&
+1805&1&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1805&1&air&> chi_acl:relcl&> pa_nmod&&&&&&&
+1805&1&air&> chi_acl:relcl&> pa_obj&&&&&&&
+1805&1&air&> chi_advcl&> chi_amod&> chi_nummod&> chi_punct&&&&&
+1805&1&air&> chi_advmod&> chi_amod&> pa_nsubj&&&&&&
+1805&1&air&> chi_advmod&> chi_conj&> pa_obl&&&&&&
+1805&1&air&> chi_amod&> chi_appos&> chi_compound&> chi_nummod&> chi_punct&> pa_appos&&&
+1805&1&air&> chi_amod&> chi_appos&> chi_compound&> pa_nmod&&&&&
+1805&1&air&> chi_amod&> chi_appos&> chi_det&> pa_obl&&&&&
+1805&1&air&> chi_amod&> chi_appos&> chi_nummod&> pa_appos&&&&&
+1805&1&air&> chi_amod&> chi_appos&> pa_nmod&&&&&&
+1805&1&air&> chi_amod&> chi_appos&> pa_obj&&&&&&
+1805&1&air&> chi_amod&> chi_cc&> chi_compound&> chi_punct&> pa_conj&&&&
+1805&1&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1805&1&air&> chi_amod&> chi_compound&> chi_nmod&> chi_nummod&> pa_obl&&&&
+1805&1&air&> chi_amod&> chi_compound&> chi_punct&> pa_nmod&&&&&
+1805&1&air&> chi_amod&> chi_compound&> pa_nsubj&&&&&&
+1805&1&air&> chi_amod&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&
+1805&1&air&> chi_amod&> chi_conj&> pa_obl&&&&&&
+1805&1&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1805&1&air&> chi_amod&> chi_dep&&&&&&&
+1805&1&air&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&&
+1805&1&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1805&1&air&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&&
+1805&1&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1805&1&air&> chi_amod&> chi_nmod&> chi_nummod&> chi_punct&> pa_nsubj&&&&
+1805&1&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1805&1&air&> chi_amod&> chi_nummod&> pa_list&&&&&&
+1805&1&air&> chi_amod&> chi_nummod&> pa_obj&&&&&&
+1805&1&air&> chi_amod&> chi_nummod&> pa_parataxis&&&&&&
+1805&1&air&> chi_amod&> chi_punct&> pa_appos&&&&&&
+1805&1&air&> chi_amod&> pa_appos&&&&&&&
+1805&1&air&> chi_cc&> pa_conj&&&&&&&
+1805&1&air&> chi_compound&> chi_nmod&> chi_punct&> pa_obl&&&&&
+1805&1&air&> chi_compound&> pa_nsubj&&&&&&&
+1805&1&air&> chi_conj&> chi_det&> chi_nmod&> pa_obl&&&&&
+1805&1&air&> chi_conj&> chi_det&> pa_obl&&&&&&
+1805&1&air&> chi_conj&> pa_nsubj&&&&&&&
+1805&1&air&> chi_det&> chi_punct&> pa_appos&&&&&&
+1805&1&air&> chi_nmod&> pa_nsubj:pass&&&&&&&
+1805&1&air&> chi_punct&> pa_nmod&&&&&&&
+1805&1&air&> pa_nsubj&&&&&&&&
+1805&1&air&> pa_nsubj:pass&&&&&&&&
+1805&1&air&> pa_obj&&&&&&&&
+1810&29&air&> chi_det&> pa_obl&&&&&&&
+1810&27&air&> pa_nmod&&&&&&&&
+1810&25&air&> chi_amod&> pa_nmod&&&&&&&
+1810&23&air&> pa_compound&&&&&&&&
+1810&22&air&> chi_det&> pa_nmod&&&&&&&
+1810&14&air&> pa_obl&&&&&&&&
+1810&12&air&> chi_amod&> pa_obl&&&&&&&
+1810&9&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1810&7&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1810&5&air&> chi_acl&> chi_det&> pa_nsubj&&&&&&
+1810&5&air&> chi_cc&> pa_conj&&&&&&&
+1810&4&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1810&4&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1810&4&air&> chi_punct&> pa_compound&&&&&&&
+1810&3&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1810&3&air&> chi_det&> pa_nsubj&&&&&&&
+1810&2&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1810&2&air&> chi_acl&> pa_nmod&&&&&&&
+1810&2&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1810&2&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1810&2&air&> chi_det&> chi_nmod&> pa_nsubj&&&&&&
+1810&2&air&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&&
+1810&2&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1810&2&air&> chi_det&> pa_obj&&&&&&&
+1810&1&air&> chi_acl&> chi_acl:relcl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&
+1810&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_det&> chi_nmod:poss&> pa_obl&&&
+1810&1&air&> chi_acl&> chi_amod&> chi_det&&&&&&
+1810&1&air&> chi_acl&> chi_amod&> chi_det&> chi_punct&> pa_nmod&&&&
+1810&1&air&> chi_acl&> chi_appos&> chi_det&> chi_nmod&> chi_punct&> pa_nsubj&&&
+1810&1&air&> chi_acl&> chi_conj&> chi_det&> pa_obl&&&&&
+1810&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj:pass&&&&&
+1810&1&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1810&1&air&> chi_acl&> chi_nmod&> pa_nmod&&&&&&
+1810&1&air&> chi_acl:relcl&> chi_amod&> chi_conj&> chi_cop&> chi_nsubj&> chi_obl&> chi_punct&&
+1810&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> chi_nmod&> pa_obl:agent&&&&
+1810&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1810&1&air&> chi_acl:relcl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1810&1&air&> chi_acl:relcl&> chi_det&> pa_obl&&&&&&
+1810&1&air&> chi_advmod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1810&1&air&> chi_advmod&> chi_det&> chi_mark&> chi_punct&> pa_advcl&&&&
+1810&1&air&> chi_advmod&> chi_det&> pa_nmod&&&&&&
+1810&1&air&> chi_amod&> chi_appos&> chi_nummod&> pa_obl&&&&&
+1810&1&air&> chi_amod&> chi_compound&> chi_nummod&> pa_obl&&&&&
+1810&1&air&> chi_amod&> chi_compound&> chi_punct&> pa_obj&&&&&
+1810&1&air&> chi_amod&> chi_conj&> chi_nummod&> pa_obl&&&&&
+1810&1&air&> chi_amod&> chi_conj&> pa_obj&&&&&&
+1810&1&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1810&1&air&> chi_amod&> chi_det&> chi_mark&> pa_advcl&&&&&
+1810&1&air&> chi_amod&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&&
+1810&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj:pass&&&&&
+1810&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1810&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1810&1&air&> chi_amod&> chi_det&> chi_punct&> pa_appos&&&&&
+1810&1&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1810&1&air&> chi_amod&> chi_mark&> pa_obl&&&&&&
+1810&1&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1810&1&air&> chi_amod&> pa_nsubj&&&&&&&
+1810&1&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1810&1&air&> chi_amod&> pa_obj&&&&&&&
+1810&1&air&> chi_amod&> pa_obl:agent&&&&&&&
+1810&1&air&> chi_appos&> chi_det&> pa_obl&&&&&&
+1810&1&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1810&1&air&> chi_cc:preconj&> chi_conj&> chi_det&> chi_punct&> pa_nsubj&&&&
+1810&1&air&> chi_cc:preconj&> chi_conj&> chi_det&> pa_obl&&&&&
+1810&1&air&> chi_compound&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1810&1&air&> chi_compound&> chi_det&> pa_obj&&&&&&
+1810&1&air&> chi_compound&> chi_mark&> chi_punct&> pa_obl&&&&&
+1810&1&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1810&1&air&> chi_conj&> pa_nmod&&&&&&&
+1810&1&air&> chi_det&> chi_det:predet&> pa_nsubj:pass&&&&&&
+1810&1&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1810&1&air&> chi_nmod&> pa_nmod&&&&&&&
+1810&1&air&> chi_nmod&> pa_obl&&&&&&&
+1810&1&air&> chi_punct&> pa_nsubj:pass&&&&&&&
+1810&1&air&> pa_nsubj:pass&&&&&&&&
+1810&1&air&> pa_obj&&&&&&&&
+1810&1&air&> pa_obl:unmarked&&&&&&&&
+1815&88&air&> pa_nmod&&&&&&&&
+1815&30&air&> chi_cc&> pa_conj&&&&&&&
+1815&28&air&> chi_det&> pa_nmod&&&&&&&
+1815&23&air&> chi_amod&> pa_nmod&&&&&&&
+1815&23&air&> pa_obl&&&&&&&&
+1815&17&air&> pa_compound&&&&&&&&
+1815&16&air&> chi_amod&> pa_obl&&&&&&&
+1815&15&air&> chi_det&> pa_obl&&&&&&&
+1815&15&air&> chi_punct&> pa_compound&&&&&&&
+1815&14&air&> chi_amod&> chi_det&> pa_obl&&&&&&
+1815&11&air&> chi_det&> pa_nsubj&&&&&&&
+1815&11&air&> chi_det&> pa_nsubj:pass&&&&&&&
+1815&10&air&> chi_conj&> pa_nmod&&&&&&&
+1815&9&air&> pa_obj&&&&&&&&
+1815&7&air&> chi_amod&> pa_obj&&&&&&&
+1815&7&air&> chi_det&> pa_obj&&&&&&&
+1815&4&air&> chi_amod&> chi_det&> pa_nmod&&&&&&
+1815&3&air&> chi_acl&> pa_nmod&&&&&&&
+1815&3&air&> chi_acl&> pa_obl&&&&&&&
+1815&3&air&> chi_amod&> chi_det&> pa_nsubj&&&&&&
+1815&3&air&> chi_amod&> pa_nsubj:pass&&&&&&&
+1815&3&air&> chi_det&> chi_nmod&> pa_nmod&&&&&&
+1815&3&air&> chi_nmod&> pa_nmod&&&&&&&
+1815&2&air&> chi_acl&> chi_det&> pa_nmod&&&&&&
+1815&2&air&> chi_acl&> chi_det&> pa_obj&&&&&&
+1815&2&air&> chi_advmod&> chi_amod&> pa_obl&&&&&&
+1815&2&air&> chi_amod&> chi_compound&> pa_nmod&&&&&&
+1815&2&air&> chi_amod&> chi_det&> pa_obj&&&&&&
+1815&2&air&> chi_conj&> chi_det&> pa_nmod&&&&&&
+1815&1&air&> chi_acl&> chi_acl:relcl&> chi_det&> pa_nmod&&&&&
+1815&1&air&> chi_acl&> chi_amod&> chi_conj&> chi_punct&> pa_nsubj&&&&
+1815&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nmod&&&&&
+1815&1&air&> chi_acl&> chi_amod&> chi_det&> pa_nsubj:pass&&&&&
+1815&1&air&> chi_acl&> chi_amod&> chi_det&> pa_obj&&&&&
+1815&1&air&> chi_acl&> chi_amod&> pa_nmod&&&&&&
+1815&1&air&> chi_acl&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1815&1&air&> chi_acl&> chi_cc&> pa_conj&&&&&&
+1815&1&air&> chi_acl&> chi_conj&> chi_det&> pa_nmod&&&&&
+1815&1&air&> chi_acl&> chi_det&> chi_punct&> pa_nsubj&&&&&
+1815&1&air&> chi_acl&> chi_det&> pa_conj&&&&&&
+1815&1&air&> chi_acl:relcl&> chi_amod&> chi_det&> pa_obl&&&&&
+1815&1&air&> chi_acl:relcl&> chi_amod&> pa_obj&&&&&&
+1815&1&air&> chi_acl:relcl&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1815&1&air&> chi_advmod&> chi_amod&> chi_compound&> chi_nmod&> chi_obl&> chi_punct&&&
+1815&1&air&> chi_advmod&> chi_amod&> pa_nmod&&&&&&
+1815&1&air&> chi_advmod&> chi_cop&> chi_det&> chi_nmod&> chi_nsubj&> chi_punct&> pa_advcl&&
+1815&1&air&> chi_advmod&> chi_nummod&> chi_punct&> pa_nmod&&&&&
+1815&1&air&> chi_amod&> chi_appos&> chi_det&> chi_nmod&> chi_punct&> pa_obl&&&
+1815&1&air&> chi_amod&> chi_cc&> chi_det&> chi_nmod&> chi_punct&> pa_conj&&&
+1815&1&air&> chi_amod&> chi_cc&> chi_det&> chi_punct&> pa_conj&&&&
+1815&1&air&> chi_amod&> chi_cc&> chi_punct&> pa_conj&&&&&
+1815&1&air&> chi_amod&> chi_cc&> pa_conj&&&&&&
+1815&1&air&> chi_amod&> chi_conj&> chi_det&> pa_obj&&&&&
+1815&1&air&> chi_amod&> chi_conj&> pa_nmod&&&&&&
+1815&1&air&> chi_amod&> chi_cop&> chi_mark&> pa_xcomp&&&&&
+1815&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nmod&&&&&
+1815&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_nsubj&&&&&
+1815&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obj&&&&&
+1815&1&air&> chi_amod&> chi_det&> chi_nmod&> pa_obl&&&&&
+1815&1&air&> chi_amod&> chi_nmod&> chi_punct&> pa_obl&&&&&
+1815&1&air&> chi_amod&> chi_nmod&> pa_nmod&&&&&&
+1815&1&air&> chi_amod&> chi_punct&> pa_obl&&&&&&
+1815&1&air&> chi_amod&> pa_nsubj&&&&&&&
+1815&1&air&> chi_appos&> chi_compound&> chi_punct&> pa_appos&&&&&
+1815&1&air&> chi_appos&> chi_det&> chi_nmod&> chi_nummod&> chi_punct&> pa_nmod&&&
+1815&1&air&> chi_appos&> chi_det&> chi_punct&> pa_nmod&&&&&
+1815&1&air&> chi_appos&> chi_punct&> pa_obl&&&&&&
+1815&1&air&> chi_cc&> chi_flat&> pa_conj&&&&&&
+1815&1&air&> chi_cc&> chi_punct&> pa_conj&&&&&&
+1815&1&air&> chi_cc&> pa_obj&&&&&&&
+1815&1&air&> chi_compound&> chi_conj&> pa_nmod&&&&&&
+1815&1&air&> chi_compound&> chi_det&> pa_nmod&&&&&&
+1815&1&air&> chi_compound&> chi_det&> pa_nsubj&&&&&&
+1815&1&air&> chi_conj&> chi_det&> pa_nsubj&&&&&&
+1815&1&air&> chi_conj&> chi_nmod&> pa_nmod&&&&&&
+1815&1&air&> chi_dep&> chi_nummod&> chi_punct&> pa_nmod&&&&&
+1815&1&air&> chi_det&> chi_nmod&> pa_obj&&&&&&
+1815&1&air&> chi_det&> chi_nmod&> pa_obl&&&&&&
+1815&1&air&> chi_det&> chi_nmod:unmarked&> chi_nummod&> chi_punct&> pa_obl&&&&
+1815&1&air&> chi_det&> chi_punct&> pa_obj&&&&&&
+1815&1&air&> chi_det&> chi_punct&> pa_obl&&&&&&
+1815&1&air&> chi_nmod&> pa_nsubj&&&&&&&
+1815&1&air&> chi_nmod&> pa_obl&&&&&&&
+1815&1&air&> chi_nummod&> chi_punct&> pa_nmod&&&&&&
+1815&1&air&> chi_nummod&> pa_nmod&&&&&&&
+1815&1&air&> chi_punct&> pa_conj&&&&&&&
+1815&1&air&> chi_punct&> pa_nmod&&&&&&&
+1815&1&air&> pa_nsubj&&&&&&&&
+1815&1&air&> pa_nsubj:pass&&&&&&&&
