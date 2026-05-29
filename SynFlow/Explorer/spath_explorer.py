@@ -127,7 +127,8 @@ def spath_explorer(
     all_results = {}  # <-- dict of dict
 
     # Go through each subfolder in the corpus folder
-    for subfolder in os.listdir(corpus_folder):
+    # for subfolder in os.listdir(corpus_folder):
+    for subfolder in sorted(os.listdir(corpus_folder), key=lambda x: int(x)):
         subfolder_path = os.path.join(corpus_folder, subfolder)
 
         # Gather filenames within each subfolder in the corpus folder
